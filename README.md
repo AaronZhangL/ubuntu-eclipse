@@ -1,7 +1,7 @@
 ubuntu-eclipse
 ==============
 
-Eclipse edit tools with other plugins
+Eclipse edit tools with some plugins
 
 1.Base on eclipse-standard-kepler-SR2-linux-gtk-x86_64.tar.gz
 
