@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?metadataRepository version='1.1.0'?>
+<repository name='Nexus IDE' type='org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository' version='1.0.0'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1362882366869'/>
+    <property name='p2.compressed' value='false'/>
+  </properties>
+  <units size='4'>
+    <unit id='file:/workspaces/m2e-dev/nexus-ide/com.ifedorenko.m2e.nexusdev.feature/category.xml.nexus-ide' version='1.0.0.2--cM9SM6773593953377A'>
+      <properties size='2'>
+        <property name='org.eclipse.equinox.p2.name' value='Nexus IDE'/>
+        <property name='org.eclipse.equinox.p2.type.category' value='true'/>
+      </properties>
+      <provides size='1'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='file:/workspaces/m2e-dev/nexus-ide/com.ifedorenko.m2e.nexusdev.feature/category.xml.nexus-ide' version='1.0.0.2--cM9SM6773593953377A'/>
+      </provides>
+      <requires size='1'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.nexusdev.feature.feature.group' range='[1.0.0.201303100224,1.0.0.201303100224]'/>
+      </requires>
+      <touchpoint id='null' version='0.0.0'/>
+    </unit>
+    <unit id='com.ifedorenko.m2e.nexusdev.feature.feature.group' version='1.0.0.201303100224' singleton='false'>
+      <update id='com.ifedorenko.m2e.nexusdev.feature.feature.group' range='[0.0.0,1.0.0.201303100224)' severity='0'/>
+      <properties size='4'>
+        <property name='org.eclipse.equinox.p2.name' value='Nexus IDE'/>
+        <property name='org.eclipse.equinox.p2.description' value='Nexus IDE'/>
+        <property name='org.eclipse.equinox.p2.provider' value='Igor Fedorenko'/>
+        <property name='org.eclipse.equinox.p2.type.group' value='true'/>
+      </properties>
+      <provides size='1'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.nexusdev.feature.feature.group' version='1.0.0.201303100224'/>
+      </provides>
+      <requires size='2'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.nexusdev' range='[1.0.0.201303100224,1.0.0.201303100224]'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.nexusdev.feature.feature.jar' range='[1.0.0.201303100224,1.0.0.201303100224]'>
+          <filter>
+            (org.eclipse.update.install.features=true)
+          </filter>
+        </required>
+      </requires>
+      <touchpoint id='null' version='0.0.0'/>
+      <licenses size='1'>
+        <license uri='http://www.eclipse.org/legal/epl-v10.html' url='http://www.eclipse.org/legal/epl-v10.html'>
+          EPL
+        </license>
+      </licenses>
+      <copyright>
+        Copyright (c) 2012 Igor Fedorenko&#xA;All rights reserved. This program and the accompanying materials&#xA;are made available under the terms of the Eclipse Public License&#xA;v1.0&#xA;which accompanies this distribution, and is available at&#xA;http://www.eclipse.org/legal/epl-v10.html&#xA;Contributors:&#xA;Igor Fedorenko - initial API and implementation\n
+      </copyright>
+    </unit>
+    <unit id='com.ifedorenko.m2e.nexusdev' version='1.0.0.201303100224'>
+      <update id='com.ifedorenko.m2e.nexusdev' range='[0.0.0,1.0.0.201303100224)' severity='0'/>
+      <properties size='2'>
+        <property name='org.eclipse.equinox.p2.name' value='Nexus development support'/>
+        <property name='org.eclipse.equinox.p2.provider' value='Igor Fedorenko'/>
+      </properties>
+      <provides size='3'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.nexusdev' version='1.0.0.201303100224'/>
+        <provided namespace='osgi.bundle' name='com.ifedorenko.m2e.nexusdev' version='1.0.0.201303100224'/>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='bundle' version='1.0.0'/>
+      </provides>
+      <requires size='18'>
+        <required namespace='osgi.bundle' name='org.eclipse.debug.core' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.debug.ui' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.jdt.debug.ui' range='3.6.100'/>
+        <required namespace='osgi.bundle' name='org.eclipse.jdt.launching' range='3.6.100'/>
+        <required namespace='osgi.bundle' name='org.eclipse.equinox.common' range='3.6.100'/>
+        <required namespace='osgi.bundle' name='org.eclipse.m2e.maven.runtime' range='[1.2.0,2.0.0)'/>
+        <required namespace='osgi.bundle' name='org.eclipse.swt' range='3.8.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.osgi' range='3.8.0'/>
+        <required namespace='osgi.bundle' name='com.ifedorenko.m2e.sourcelookup' range='[1.0.0,2.0.0)'/>
+        <required namespace='osgi.bundle' name='org.eclipse.m2e.core' range='[1.2.0,2.0.0)'/>
+        <required namespace='osgi.bundle' name='org.eclipse.equinox.registry' range='3.5.200'/>
+        <required namespace='osgi.bundle' name='org.eclipse.core.runtime' range='3.8.0'/>
+        <required namespace='osgi.bundle' name='com.ifedorenko.m2e.binaryproject' range='1.1.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.jface' range='3.8.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.ui.workbench' range='3.105.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.core.resources' range='0.0.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.ui' range='0.0.0'/>
+        <required namespace='java.package' name='org.slf4j' range='1.6.1'/>
+      </requires>
+      <artifacts size='1'>
+        <artifact classifier='osgi.bundle' id='com.ifedorenko.m2e.nexusdev' version='1.0.0.201303100224'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='1'>
+          <instruction key='manifest'>
+            Bundle-SymbolicName: com.ifedorenko.m2e.nexusdev;singleton:=true&#xA;Bundle-Version: 1.0.0.201303100224
+          </instruction>
+        </instructions>
+      </touchpointData>
+    </unit>
+    <unit id='com.ifedorenko.m2e.nexusdev.feature.feature.jar' version='1.0.0.201303100224'>
+      <properties size='3'>
+        <property name='org.eclipse.equinox.p2.name' value='Nexus IDE'/>
+        <property name='org.eclipse.equinox.p2.description' value='Nexus IDE'/>
+        <property name='org.eclipse.equinox.p2.provider' value='Igor Fedorenko'/>
+      </properties>
+      <provides size='3'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.nexusdev.feature.feature.jar' version='1.0.0.201303100224'/>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='feature' version='1.0.0'/>
+        <provided namespace='org.eclipse.update.feature' name='com.ifedorenko.m2e.nexusdev.feature' version='1.0.0.201303100224'/>
+      </provides>
+      <filter>
+        (org.eclipse.update.install.features=true)
+      </filter>
+      <artifacts size='1'>
+        <artifact classifier='org.eclipse.update.feature' id='com.ifedorenko.m2e.nexusdev.feature' version='1.0.0.201303100224'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='1'>
+          <instruction key='zipped'>
+            true
+          </instruction>
+        </instructions>
+      </touchpointData>
+      <licenses size='1'>
+        <license uri='http://www.eclipse.org/legal/epl-v10.html' url='http://www.eclipse.org/legal/epl-v10.html'>
+          EPL
+        </license>
+      </licenses>
+      <copyright>
+        Copyright (c) 2012 Igor Fedorenko&#xA;All rights reserved. This program and the accompanying materials&#xA;are made available under the terms of the Eclipse Public License&#xA;v1.0&#xA;which accompanies this distribution, and is available at&#xA;http://www.eclipse.org/legal/epl-v10.html&#xA;Contributors:&#xA;Igor Fedorenko - initial API and implementation\n
+      </copyright>
+    </unit>
+  </units>
+</repository>

@@ -1,0 +1,745 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: dDtuXT3imjzfppeB9Hzg0Tap++U=
+Created-By: 1.6.0_29 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: fxDXSwkqFLeyaT2SYrWf3HdhXFQ=
+
+Name: org/springsource/ide/eclipse/gradle/core/GradleModelProvider.cla
+ ss
+SHA1-Digest: E7WIeRYPNHE/Jzt5cI+/yjnOaCo=
+
+Name: org/springsource/ide/eclipse/gradle/core/ExistingWorkspaceProjec
+ tMapper.class
+SHA1-Digest: fCRUxbrzkZwBfc8DwhICoW7yhMk=
+
+Name: org/springsource/ide/eclipse/gradle/core/launch/GradleLaunchConf
+ igurationDelegate.class
+SHA1-Digest: CToy9ao9nLvasFyGROPK++uwOFM=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/NatureUtils.class
+SHA1-Digest: /CfKh0IHziYTkGVAm8Vb+/2b3U4=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/TopoSort$PartialOr
+ der.class
+SHA1-Digest: 3/KdAl5dCrZ7P4Kkm0Wu82A/Pjs=
+
+Name: org/springsource/ide/eclipse/gradle/core/wizards/NewGradleProjec
+ tOperation.class
+SHA1-Digest: Ynn+iNhhqQrUlPCa//LZ1abK1AU=
+
+Name: samples/flat-java-multiproject/product/build.gradle
+SHA1-Digest: L7NJs25LFFmROWbaSKt/spteDuM=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/TopoSort$Modifyabl
+ ePartialOrder.class
+SHA1-Digest: KcbXGVdf5QC/hhCzRVVWvtRFQa0=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/JobUtil$1.class
+SHA1-Digest: R/XwENvGmdyp7wn3qPzz5y7RFJ8=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ZipFileUtil$Permis
+ sionSetter$1.class
+SHA1-Digest: L8xbhGZf4MEW2PttH3Y3BLRJZVs=
+
+Name: samples/flat-java-multiproject/product/src/test/java/README.txt
+SHA1-Digest: Uegnd7fTZsaDJLz3/S88b/uo8S0=
+
+Name: org/springsource/ide/eclipse/gradle/core/IProjectMapper.class
+SHA1-Digest: qc7xokLfiBnC283LHMBbS8xur3M=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ResourceFilterFact
+ ory.class
+SHA1-Digest: 9Z384JsKDlTUAUfT3H0dj6xHRfM=
+
+Name: org/springsource/ide/eclipse/gradle/core/GradleCore.class
+SHA1-Digest: KIrUNdt/j4o55k/2SMl5POndjc0=
+
+Name: org/springsource/ide/eclipse/gradle/core/preferences/AbstractGra
+ dleProjectPreferences.class
+SHA1-Digest: o3bv4z14GmPRCgg5u4KmsutVShg=
+
+Name: org/springsource/ide/eclipse/gradle/core/m2e/M2EUtils$DefaultImp
+ lementation.class
+SHA1-Digest: 5ob9YDUrtEFRCiRChaXyQaxJYq8=
+
+Name: org/springsource/ide/eclipse/gradle/core/wizards/GradleImportOpe
+ ration.class
+SHA1-Digest: QPS1o9iSK4UloZ8xtuBSBLwSpZU=
+
+Name: org/springsource/ide/eclipse/gradle/core/TaskUtil$1.class
+SHA1-Digest: lfOsDxUXPC8CHSf8Sqr0li2S4mg=
+
+Name: org/springsource/ide/eclipse/gradle/core/launch/GradleOutputStre
+ amMonitor$1.class
+SHA1-Digest: DqxBzaRul9Q9+oTS4nXkNm5SlYY=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ExceptionUtil.clas
+ s
+SHA1-Digest: MPKOcHzxvA0fZDtq0UYOoA/2bEA=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/JoinableContinuati
+ on.class
+SHA1-Digest: 7oTdF0gk7Xv++i8OiV7sVECbQbE=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/OsUtils.class
+SHA1-Digest: xsSNuMS35habH+jGuG48lGUeyMg=
+
+Name: org/springsource/ide/eclipse/gradle/core/samples/LocalSample.cla
+ ss
+SHA1-Digest: oMCcLV0K30npAuKQ0O+k5CFQNRY=
+
+Name: org/springsource/ide/eclipse/gradle/core/m2e/M2EUtils$IM2EUtils.
+ class
+SHA1-Digest: n4bAPG3QxRfyjyPQ/yaZThlSi98=
+
+Name: org/springsource/ide/eclipse/gradle/core/wizards/GradleImportOpe
+ ration$2.class
+SHA1-Digest: kfsU9k5L7urZa54/07Qo6RgZAVg=
+
+Name: org/springsource/ide/eclipse/gradle/core/wtp/DeploymentExclusion
+ s.class
+SHA1-Digest: 2Xh1PPl1lWRvCXPWQY4Oh/+56a4=
+
+Name: org/springsource/ide/eclipse/gradle/core/DefaultProjectMapper.cl
+ ass
+SHA1-Digest: 0mDiU2tf26et9cMpnutaz6QVW4c=
+
+Name: org/springsource/ide/eclipse/gradle/core/wizards/HierarchicalPro
+ jectMapper.class
+SHA1-Digest: NCtbubrV+vrf+nu3LG+R48C916M=
+
+Name: org/springsource/ide/eclipse/gradle/core/wtp/WTPUtil$IWTPUtil.cl
+ ass
+SHA1-Digest: SKacPZ4A3LVHuo5hVvV9dJwzflM=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/expression/LiveVar
+ iable.class
+SHA1-Digest: dYMHR/BB0smlA9q4KjLreWZcuH8=
+
+Name: org/springsource/ide/eclipse/gradle/core/classpathcontainer/Fast
+ OperationFailedException.class
+SHA1-Digest: MracvqrmBLT9C+SHEZaLjDgdgNY=
+
+Name: org/springsource/ide/eclipse/gradle/core/wtp/WTPUtil$NullImpleme
+ ntation.class
+SHA1-Digest: 1NyqQRZTk/GvcpPA9YkxXZSlqag=
+
+Name: org/springsource/ide/eclipse/gradle/core/samples/SampleProjectRe
+ gistry.class
+SHA1-Digest: yOFS86qTZjHiWtUamds0ZgtzQxA=
+
+Name: org/springsource/ide/eclipse/gradle/core/launch/GradleLaunchConf
+ igurationDelegate$1.class
+SHA1-Digest: rCtJKRB0ALv0qRrFeTkP9ROukD8=
+
+Name: org/springsource/ide/eclipse/gradle/core/autorefresh/DependencyR
+ efresher$1$1.class
+SHA1-Digest: lQIN4yE33r6NWuqelqmyg/Y0jgo=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ErrorHandler.class
+SHA1-Digest: +UDqbHIbarqU1gUD2qbLv6C8CDo=
+
+Name: org/springsource/ide/eclipse/gradle/core/launch/GradlePipedInput
+ Stream.class
+SHA1-Digest: qOwRdl5TOc4SdcX46gJD1gaLxSA=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ErrorHandler$KeepF
+ irst.class
+SHA1-Digest: QbURprbn8um4YXy+ab2DFLWdCJM=
+
+Name: org/springsource/ide/eclipse/gradle/core/dsld/GradleDSLDClasspat
+ hContainerInitializer.class
+SHA1-Digest: CpaFII6TkqoA3LmGYozmjliLkbI=
+
+Name: about.html
+SHA1-Digest: sls/uPX0dorZWZyIgOph4kXdXoU=
+
+Name: org/springsource/ide/eclipse/gradle/core/preferences/GradleAPIPr
+ operties.class
+SHA1-Digest: UXNuqYNo2kkTdwOuP5JWLzJTLyQ=
+
+Name: org/springsource/ide/eclipse/gradle/core/samples/SampleProjectRe
+ gistry$1.class
+SHA1-Digest: YV89Bm/XWlnrCxcc+jNv76Pu2n4=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/GradleProjectIndex
+ $3.class
+SHA1-Digest: G9np5yzrUKuimNxgWtDw1kwX9Kc=
+
+Name: org/springsource/ide/eclipse/gradle/core/samples/GradleDistribut
+ ionSample.class
+SHA1-Digest: 7eWt+6p4nbBtjKjmgA1DbuLwYtI=
+
+Name: org/springsource/ide/eclipse/gradle/core/GradleProject$2.class
+SHA1-Digest: XEBWst82nW2qkqrLySLWoLtIPIw=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/expression/LiveExp
+ ression$1.class
+SHA1-Digest: lAa/OGsp9Se2gJ6KTjb7YbwykYQ=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/DownloadManager.cl
+ ass
+SHA1-Digest: scjIt4JirPf6xSIKZlYVlQJVQ0c=
+
+Name: org/springsource/ide/eclipse/gradle/core/wizards/GradleImportOpe
+ ration$4.class
+SHA1-Digest: rCt3uCBlKX8s3cUrfriwA/L87nE=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/WorkspaceUtil.clas
+ s
+SHA1-Digest: vncJqMPXJnrlVpiOZO/yyq9LwNY=
+
+Name: org/springsource/ide/eclipse/gradle/core/launch/GradleOutputStre
+ amMonitor.class
+SHA1-Digest: 9XU2ZJRwvaEJNOA9hED/2iS3EWA=
+
+Name: org/springsource/ide/eclipse/gradle/core/ProjectConfigurationMan
+ ager$DescriptorsTopoSort$1.class
+SHA1-Digest: rKwQs492ShEtDlBitKJRRXrKIhs=
+
+Name: org/springsource/ide/eclipse/gradle/core/Debug.class
+SHA1-Digest: AiLqqidmX8ohwNHo1RdzMKK9yyY=
+
+Name: org/springsource/ide/eclipse/gradle/core/actions/GradleRefreshPr
+ eferences.class
+SHA1-Digest: gP9DbM770Scc/dZe3h9bTV+Gqsk=
+
+Name: samples/flat-java-multiproject/my-lib/build.gradle
+SHA1-Digest: OTHjnkx7f6HnxerMlmSktYRuiH0=
+
+Name: META-INF/p2.inf
+SHA1-Digest: odhEVjdOVTyEImPdtyQKkAcEjcY=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/IllegalClassPathEn
+ tryException.class
+SHA1-Digest: BquYJ+ZbDmb9FTdUtAop9remQic=
+
+Name: org/springsource/ide/eclipse/gradle/core/preferences/GradlePrefe
+ rences$1.class
+SHA1-Digest: e9QSZ/uFbKQRwAMNlj+ZJeRgZ/0=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ErrorHandler$Test.
+ class
+SHA1-Digest: MHUd703OjLganYiGgtSpvnx9hIU=
+
+Name: org/springsource/ide/eclipse/gradle/core/classpathcontainer/Grad
+ leClassPathContainer.class
+SHA1-Digest: p6rd4+nK1E+eGTPSZBNYpBYp8WA=
+
+Name: org/springsource/ide/eclipse/gradle/core/validators/Validator.cl
+ ass
+SHA1-Digest: 5pvhs41CHEGaiWvwVoDTvbqsR3c=
+
+Name: org/springsource/ide/eclipse/gradle/core/actions/ReimportOperati
+ on.class
+SHA1-Digest: 4rr8QuptLEW3Oe4Dn++CzsDs2uU=
+
+Name: org/springsource/ide/eclipse/gradle/core/autorefresh/DependencyR
+ efresher$1.class
+SHA1-Digest: DkiEvKHv5AH41vQ7xB4sns/wmjc=
+
+Name: org/springsource/ide/eclipse/gradle/core/preferences/GradleImpor
+ tPreferences.class
+SHA1-Digest: YVn0lrfWhyKR1kfu7rTst+zBClQ=
+
+Name: org/springsource/ide/eclipse/gradle/core/classpathcontainer/Mark
+ erMaker.class
+SHA1-Digest: ErET03IOQr3WEXH9SlTCd5efEYw=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/GradleProjectIndex
+ $2.class
+SHA1-Digest: 7pDEM4mXuheaDxp+c5Sg1la+Iuo=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ErrorHandler$Recor
+ dAll.class
+SHA1-Digest: 9aopOKyTbcciT7QrgJkVjM59Y3s=
+
+Name: org/springsource/ide/eclipse/gradle/core/dsld/SuppressUnderlinin
+ gTypeLookup.class
+SHA1-Digest: 7iIGIIHQcnjX4v9bBjLy2E7c/Xc=
+
+Name: samples/flat-java-multiproject/settings.gradle
+SHA1-Digest: GGzf26ltRfg5IMsH2JEUJ0+sWAQ=
+
+Name: org/springsource/ide/eclipse/gradle/core/launch/GradleProcess.cl
+ ass
+SHA1-Digest: eJDkg7K0Ti8t+Yf57zAAiCmqIpM=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/DownloadManager$Do
+ wnloadRequestor.class
+SHA1-Digest: qEIgACH21C0Pfs+XoeSsMaHousY=
+
+Name: org/springsource/ide/eclipse/gradle/core/actions/Continuable.cla
+ ss
+SHA1-Digest: dViI4Q+z2qwl+bcsFuIZqsFZcoI=
+
+Name: org/springsource/ide/eclipse/gradle/core/api/IProjectConfigurati
+ onRequest.class
+SHA1-Digest: uhlO2yVnf76WFdj2zuLUPutKAik=
+
+Name: org/springsource/ide/eclipse/gradle/core/GradleProject$1.class
+SHA1-Digest: aqQHBxvrydlOiAqBBkUu/pKraqc=
+
+Name: org/springsource/ide/eclipse/gradle/core/GradleProjectManager.cl
+ ass
+SHA1-Digest: 5OxTeMcew1dyIBTIOKaVUnMMhZA=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ConsoleUtil.class
+SHA1-Digest: BpiGldzRxllBgRNtjNmQzibPK9I=
+
+Name: org/springsource/ide/eclipse/gradle/core/m2e/M2EUtils.class
+SHA1-Digest: 8pFRiOJwt7ODcfXRTcOQWeVK69w=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/BusyStatus.class
+SHA1-Digest: JuwH3S8o/m+jB4/YfuRki64UrYM=
+
+Name: samples/flat-java-multiproject/my-lib/src/main/java/my/cool/lib/
+ CoolLib.java
+SHA1-Digest: qqXBz6B3q2mOwANJfBFnstoAuwo=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ResourceListEncode
+ r.class
+SHA1-Digest: e5zXEp7fW4aOBbioiKFUDDvW7FU=
+
+Name: org/springsource/ide/eclipse/gradle/core/validators/JavaHomeVali
+ dator.class
+SHA1-Digest: VYOlidhj09mIgmVRo0brUNPrbJY=
+
+Name: org/springsource/ide/eclipse/gradle/core/wtp/RegexpListDeploymen
+ tExclusions.class
+SHA1-Digest: 0PAtx7ssKW8CTVzggQKpqSjYUaA=
+
+Name: org/springsource/ide/eclipse/gradle/core/TaskUtil.class
+SHA1-Digest: 605D//TOdBX9Jm/GeWon7Ued7lg=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/GradleProjectSorte
+ r.class
+SHA1-Digest: 7adj92U13lVGLzft+YeHnqJeCSs=
+
+Name: org/springsource/ide/eclipse/gradle/core/launch/GradleStreamsPro
+ xy.class
+SHA1-Digest: cHK+y44T4a5EanUUr322/ZcPKl0=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ArgumentsParser.cl
+ ass
+SHA1-Digest: rDo0sGTbrMq2vjkPI3D8gGLWdm4=
+
+Name: org/springsource/ide/eclipse/gradle/core/ProjectConfigurationReq
+ uest.class
+SHA1-Digest: 7FT3Y7MpEcXM1OfHBrsFWWpJkAg=
+
+Name: org/springsource/ide/eclipse/gradle/core/autorefresh/GradleWorks
+ paceListener$2.class
+SHA1-Digest: aqFer/1S3N7X40Fd79wX4KemvaM=
+
+Name: org/springsource/ide/eclipse/gradle/core/ProjectMapperFactory$1.
+ class
+SHA1-Digest: NhNU0kz4pAilf0ZKG0Pft5ETlXc=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/expression/ValueLi
+ stener.class
+SHA1-Digest: bcBKrDGXWSvtlILqaeCOGgHbJUE=
+
+Name: org/springsource/ide/eclipse/gradle/core/autorefresh/GradleWorks
+ paceListener.class
+SHA1-Digest: Ypx1quq7+jKgcBigJK4Et571vec=
+
+Name: org/springsource/ide/eclipse/gradle/core/wizards/GradleImportOpe
+ ration$ExistingProjectException.class
+SHA1-Digest: CDlyF0ykv2qoEYWM3vnio1l/d0w=
+
+Name: org/springsource/ide/eclipse/gradle/core/classpathcontainer/Grad
+ leClassPathContainer$1.class
+SHA1-Digest: GyH4fNE2hrOV6+6ePc4e0etTQ6k=
+
+Name: org/springsource/ide/eclipse/gradle/core/actions/RefreshAllActio
+ nCore$1.class
+SHA1-Digest: XrdL/bST5gdRoeXaATOS5NddUUU=
+
+Name: org/springsource/ide/eclipse/gradle/core/validators/NewProjectLo
+ cationValidator$1.class
+SHA1-Digest: /aKZ9l0jokfahPhY3k5cBf5I79s=
+
+Name: org/springsource/ide/eclipse/gradle/core/ProjectConfigurationMan
+ ager$ProjectConfiguratorDescriptor.class
+SHA1-Digest: I3v7+O8yVvXodhMHxj08YGP9hEA=
+
+Name: org/springsource/ide/eclipse/gradle/core/launch/LaunchTerminatio
+ nListener.class
+SHA1-Digest: Zcach7tHmRwbp+5AnPJp03DMGeQ=
+
+Name: org/springsource/ide/eclipse/gradle/core/samples/GradleDistribut
+ ionSample$1.class
+SHA1-Digest: 4P5KniWCMr4gZAdMOzh/ESTQxNQ=
+
+Name: org/springsource/ide/eclipse/gradle/core/preferences/GradlePrefe
+ rences.class
+SHA1-Digest: OLW9cqpJbLr7p+pxMGkYdouHbf0=
+
+Name: samples/flat-java-multiproject/product/src/main/java/my/cool/app
+ /Runner.java
+SHA1-Digest: tPu6dR8zBj9VVKus5iWA3/cHLVU=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/GradleProjectSorte
+ r$DependencyOrder.class
+SHA1-Digest: Rqe+x/ciRS+ZdPA6WjHsOFIq4BQ=
+
+Name: org/springsource/ide/eclipse/gradle/core/actions/IProjectProvide
+ r.class
+SHA1-Digest: BsDDTGVQ4pe7SBC6CbYmr1shzrw=
+
+Name: samples/flat-java-multiproject/my-lib/src/test/resources/org/gra
+ dle/test-resource.xml
+SHA1-Digest: shKo6rA4GRSEcGASNxFtQvpZ4eU=
+
+Name: org/springsource/ide/eclipse/gradle/core/autorefresh/DependencyR
+ efresher.class
+SHA1-Digest: FfjyNlXGZNxWTZ7uwCoYiWff2m4=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/Gradle1792BugExcep
+ tion.class
+SHA1-Digest: P03SqByDGGVOhJT/ZDGN070gCm0=
+
+Name: org/springsource/ide/eclipse/gradle/core/validators/Distribution
+ Validator.class
+SHA1-Digest: LT9EwFGdPWi6VTQQREnYwgm6i2A=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/TimeUtils.class
+SHA1-Digest: F3BkmImd5JGEczmA8puWe9V9+Hw=
+
+Name: org/springsource/ide/eclipse/gradle/core/validators/JavaHomeVali
+ datorContext.class
+SHA1-Digest: 8VmWnQ3MH4KitkURGGbXjD98kyQ=
+
+Name: org/springsource/ide/eclipse/gradle/core/autorefresh/GradleWorks
+ paceListener$1.class
+SHA1-Digest: fH/1Vjv6V3OpciULZ8H7xf1MM1E=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/GradleProjectIndex
+ .class
+SHA1-Digest: LluOj0k4H5ZNkG2LZP2SEhl/g/8=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/JavaRuntimeUtils.c
+ lass
+SHA1-Digest: i83mFrPiDvZQdWMubWYX6dgyRww=
+
+Name: org/springsource/ide/eclipse/gradle/core/wizards/GradleImportOpe
+ ration$3.class
+SHA1-Digest: j/DBu9zyj03rPncoGgNc3oGJlsU=
+
+Name: org/springsource/ide/eclipse/gradle/core/actions/RefreshAllActio
+ nCore.class
+SHA1-Digest: EjXfRMUY6W85H82tuGv3XNSFIYk=
+
+Name: org/springsource/ide/eclipse/gradle/core/launch/LaunchUtil.class
+SHA1-Digest: rvzn85taL4VQxZbBfJgwr3i3cG4=
+
+Name: org/springsource/ide/eclipse/gradle/core/actions/RefreshDependen
+ ciesActionCore$1.class
+SHA1-Digest: jrXQE4bnGA2wzxpGICzZuY43+Hg=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ZipFileUtil$Permis
+ sionSetter.class
+SHA1-Digest: tS5nOQDtAIYTzys7aOaQkFYrsco=
+
+Name: org/springsource/ide/eclipse/gradle/core/TaskUtil$ITaskProvider.
+ class
+SHA1-Digest: cZ5Dnxwel75bKon/IpQ8MEGafc4=
+
+Name: org/springsource/ide/eclipse/gradle/core/actions/RefreshAllActio
+ nCore$1$1.class
+SHA1-Digest: Gzo2PnAKyrCFrfbJDRxXZJNi42Q=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/NullJoinable.class
+SHA1-Digest: i4as1QtFgESPVMroKeYftOh9nRU=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ZipFileUtil$Permis
+ sionSetter$2.class
+SHA1-Digest: uwjDczf+3gfXPFUc2kLw4Lry/10=
+
+Name: samples/flat-java-multiproject/product/src/test/resources/README
+ .txt
+SHA1-Digest: ofS6gB9dn9+v5+EA1QAdEXUSees=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/JobUtil.class
+SHA1-Digest: ju9zIUJSSKcPmyznL8gOrfPW7kI=
+
+Name: org/springsource/ide/eclipse/gradle/core/ProjectConfigurationMan
+ ager.class
+SHA1-Digest: a4K3tubTchs8zC94MoxmlsQfZo0=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/GradleProjectIndex
+ $4.class
+SHA1-Digest: HzG8BRycfvWl0W22dexFQNWLLLk=
+
+Name: org/springsource/ide/eclipse/gradle/core/wizards/GradleImportOpe
+ ration$1.class
+SHA1-Digest: QIB6KLesbh+FoEP7vaBIe1o0A9o=
+
+Name: org/springsource/ide/eclipse/gradle/core/wtp/WTPUtil$DefaultImpl
+ ementation.class
+SHA1-Digest: AYSEk5lxB6hFAwGk+zvOWqkyZ18=
+
+Name: org/springsource/ide/eclipse/gradle/core/dsld/GradleDSLDClasspat
+ hContainer.class
+SHA1-Digest: OVuNCyXT2N/Gn8Xp/e5JqZniE8A=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/GradleProjectIndex
+ $1.class
+SHA1-Digest: BBXX9/X2QD3DiauEroKofSF9CfA=
+
+Name: org/springsource/ide/eclipse/gradle/core/GradleModelListeners.cl
+ ass
+SHA1-Digest: ZH72Yo+Kv1/CVf6Mw0Q3QRW2EA8=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ErrorHandler$Filte
+ rDuplicates.class
+SHA1-Digest: Y1eRLkfRQOEicvUefWOMC7eX9vU=
+
+Name: org/springsource/ide/eclipse/gradle/core/launch/GradleProcess$1.
+ class
+SHA1-Digest: n4AZ+pvFvOlVVbIUqNk1y0OiAXQ=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/Distributions.clas
+ s
+SHA1-Digest: mrKC/0m0Dp6mrWVnIlC7lhp8OTM=
+
+Name: org/springsource/ide/eclipse/gradle/core/dsld/DSLDSupport.class
+SHA1-Digest: QnwGobnKxU56XbVpp5dyqN/kepw=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ErrorHandler$LogTo
+ EclipseErrorLog.class
+SHA1-Digest: E3dIFY6vmpMFfeC0pR0kMaCHXE4=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/RestrictedCapacity
+ Stack.class
+SHA1-Digest: YE0i1NruBhc/aJbng1LrNjCY1Tk=
+
+Name: org/springsource/ide/eclipse/gradle/core/ProjectHierarchyVisitor
+ .class
+SHA1-Digest: jwnUioqPkIUE/vi1wickUJJ2DdM=
+
+Name: samples/flat-java-multiproject/my-lib/src/test/java/org/gradle/P
+ ersonTest.java
+SHA1-Digest: g0OcXKIJdoePWNg+nBy0IKVWM7U=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/TopoSort.class
+SHA1-Digest: 0+jjRSh5V62tJT98jv8ZOfzlqDU=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/HttpUtil.class
+SHA1-Digest: I63flUpcQPxYezhsIguO/3xlbjs=
+
+Name: org/springsource/ide/eclipse/gradle/core/ProjectMapperFactory.cl
+ ass
+SHA1-Digest: W1meZvV6bsyD0yPW79F0Jmjm+Wk=
+
+Name: org/springsource/ide/eclipse/gradle/core/GradleSaveParticipant.c
+ lass
+SHA1-Digest: bwWfVoJD1eW95KW5j3ndgeChbSk=
+
+Name: plugin.xml
+SHA1-Digest: P4Kc3f+1FH+0UR1gUBTk8i6679I=
+
+Name: org/springsource/ide/eclipse/gradle/core/actions/IProjectProvide
+ r$1.class
+SHA1-Digest: SIX1MTSXczkaPXfhxzrKp6dshvQ=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ArrayEncoder.class
+SHA1-Digest: PCggYOnUs+QkykD40DR8dztYHk8=
+
+Name: org/springsource/ide/eclipse/gradle/core/wizards/PrecomputedProj
+ ectMapper.class
+SHA1-Digest: 9bXAQ5coEOkaDIkUpTO/VopNhbg=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/JobUtil$2.class
+SHA1-Digest: p2ckkAJHIf7Bo47BVfokCmO4DY4=
+
+Name: org/springsource/ide/eclipse/gradle/core/preferences/AbstractGra
+ dleProjectPreferences$1.class
+SHA1-Digest: K1TpkFYCj0c6z7LdOGa4HK2IfQA=
+
+Name: org/springsource/ide/eclipse/gradle/core/validators/ProjectNameV
+ alidator.class
+SHA1-Digest: Cv0x1Cig2zIjr0PvpqiE7eDKcDo=
+
+Name: org/springsource/ide/eclipse/gradle/core/wizards/GradleImportOpe
+ ration$MissingProjectDependencyException.class
+SHA1-Digest: 5sNHYcwuDhuyM/X7xZprjMZqz3c=
+
+Name: org/springsource/ide/eclipse/gradle/core/preferences/GlobalSetti
+ ngs.class
+SHA1-Digest: q+xXIinCP5K3UuZgtBv2ZTwY0K8=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/GradleProjectUtil.
+ class
+SHA1-Digest: Q5Uy2/hcg+9NX5WMvrrhY16WOqI=
+
+Name: org/springsource/ide/eclipse/gradle/core/GradleDependencyCompute
+ r.class
+SHA1-Digest: 58waP6LPyk8uxzI0jcndPrOiJe0=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/Continuation.class
+SHA1-Digest: gdt6DV7aqEmQpXORGFGNOAflH40=
+
+Name: org/springsource/ide/eclipse/gradle/core/validators/CompositeVal
+ idator.class
+SHA1-Digest: ZJVFpVqv1s3mx7uRCnRtQ6YGOS8=
+
+Name: org/springsource/ide/eclipse/gradle/core/preferences/GradleProje
+ ctPreferences.class
+SHA1-Digest: or/R9EAdDtBRKFQgnb4q3pTvB3o=
+
+Name: org/springsource/ide/eclipse/gradle/core/InconsistenProjectHiera
+ rchyException.class
+SHA1-Digest: qnEf8XCr3wQ0LFoZSzMXxgaZ7ZI=
+
+Name: dslSupport/dsld/GradleDSLD.dsld
+SHA1-Digest: lPs2b8Oq5RY54rNOZj2Tlr0NUnE=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ZipFileUtil.class
+SHA1-Digest: 0GIBrpZIa2yKe0ye2Jgh0xtgrsE=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/GradleRunnable$1.c
+ lass
+SHA1-Digest: HHOO8BwvdHdwtdNSZqKtnh4G8bY=
+
+Name: samples/flat-java-multiproject/build.gradle
+SHA1-Digest: HwhQFKfQzWW8DXwvrM9SgWQIDQM=
+
+Name: org/springsource/ide/eclipse/gradle/core/IGradleModelListener.cl
+ ass
+SHA1-Digest: Kc5ZPwv+jXQaYP9htFVBi2yCBCw=
+
+Name: org/springsource/ide/eclipse/gradle/core/wizards/PrecomputedProj
+ ectMapper$NameClashException.class
+SHA1-Digest: Vejp8EdP2ueZ9TWkK28hoE0dOic=
+
+Name: org/springsource/ide/eclipse/gradle/core/GradleModelProvider$Gro
+ upedModelProvider.class
+SHA1-Digest: SP8p4sAaqAunysDI/fU4U8GkKgg=
+
+Name: org/springsource/ide/eclipse/gradle/core/validators/SampleProjec
+ tValidator.class
+SHA1-Digest: Y0QNpF7sGMNpGucNlvJDXEHMCjQ=
+
+Name: org/springsource/ide/eclipse/gradle/core/classpathcontainer/Grad
+ leClasspathContainerInitializer.class
+SHA1-Digest: nHmlGwZoRtyeZ9YITMprmAk6Eis=
+
+Name: org/springsource/ide/eclipse/gradle/core/wizards/FlatPrecomputed
+ ProjectMapper.class
+SHA1-Digest: 3HLTGmeg0t2xSkGx5QXhiaEZ700=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/Joinable.class
+SHA1-Digest: tgmbDwHLLnPc16ByAmnIe+Gc79E=
+
+Name: org/springsource/ide/eclipse/gradle/core/preferences/AbstractGra
+ dlePreferences.class
+SHA1-Digest: zP4TcksLI2C8knlpGVvwe9dgqpI=
+
+Name: org/springsource/ide/eclipse/gradle/core/GradleProject.class
+SHA1-Digest: dSS+vjmUlpDUvL5T/iSgDRYfsmY=
+
+Name: org/springsource/ide/eclipse/gradle/core/preferences/IJavaHomePr
+ eferences.class
+SHA1-Digest: gviDI7CdyGqtrVU0OrBTtyIELRs=
+
+Name: org/springsource/ide/eclipse/gradle/core/validators/NewProjectLo
+ cationValidator.class
+SHA1-Digest: fzAnp9vEQpyunaa19WPfgtby1Ig=
+
+Name: org/springsource/ide/eclipse/gradle/core/validators/ValidationRe
+ sult.class
+SHA1-Digest: T9wzsK2lNMzgmnhQHXdWelZZXbs=
+
+Name: org/springsource/ide/eclipse/gradle/core/samples/SampleProject.c
+ lass
+SHA1-Digest: /TT/xmUB89axqw+g/CoRmw0c7pw=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/GradleRunnable.cla
+ ss
+SHA1-Digest: FpM6SQEvx/7YfOpoEqYJdSzPSlU=
+
+Name: org/springsource/ide/eclipse/gradle/core/validators/Distribution
+ ValidatorContext.class
+SHA1-Digest: 0OlkRvgsjysZgbAVClH9mTqqjEw=
+
+Name: org/springsource/ide/eclipse/gradle/core/launch/GradleStreamsPro
+ xy$Pipe.class
+SHA1-Digest: 2DW3Jc9z0uSaUwaPZYGSbtI2rsI=
+
+Name: org/springsource/ide/eclipse/gradle/core/ClassPath.class
+SHA1-Digest: 7VjPie0v/YmbSUhd6fqEMdq1e58=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/ConsoleUtil$Consol
+ e.class
+SHA1-Digest: OGUl66YcTtJjfKpE2XjLOgEHpCA=
+
+Name: samples/flat-java-multiproject/my-lib/src/main/resources/org/gra
+ dle/resource.xml
+SHA1-Digest: kvoXg/35Ic8Z4SNftUjUSIdBC30=
+
+Name: org/springsource/ide/eclipse/gradle/core/GradleModelProvider$1.c
+ lass
+SHA1-Digest: skA36Dv5pX6qpYbunnL/j6yjASQ=
+
+Name: org/springsource/ide/eclipse/gradle/core/wtp/WTPUtil.class
+SHA1-Digest: sEwY6XdsZeA0xjgdcpLKQSU2qE8=
+
+Name: org/springsource/ide/eclipse/gradle/core/GradleSaveParticipant$P
+ rojectStore.class
+SHA1-Digest: DGpJlemuEMenhv/bID22/cn6Ryk=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/expression/LiveExp
+ ression.class
+SHA1-Digest: Xv8yoyM8Gmn0xcg47RQ2mhFFHXk=
+
+Name: samples/flat-java-multiproject/my-lib/src/main/java/org/gradle/P
+ erson.java
+SHA1-Digest: gV+i+uOAoPbpokIfghQ72UOY8oU=
+
+Name: org/springsource/ide/eclipse/gradle/core/GradleNature.class
+SHA1-Digest: nd1T9Okp3H5s1BJS2JujHVHBSBs=
+
+Name: org/springsource/ide/eclipse/gradle/core/classpathcontainer/Mark
+ erMaker$AddMarker.class
+SHA1-Digest: iFXfDcP6udfIRnrleROiiGMD00c=
+
+Name: org/springsource/ide/eclipse/gradle/core/api/IProjectConfigurato
+ r.class
+SHA1-Digest: HfS8V7aU52rtHyJt2o0T3dHNkBc=
+
+Name: org/springsource/ide/eclipse/gradle/core/autorefresh/IDirtyProje
+ ctListener.class
+SHA1-Digest: LBmc3QysLi3rLIU/wDAOtADd3uU=
+
+Name: org/springsource/ide/eclipse/gradle/core/actions/RefreshDependen
+ ciesActionCore.class
+SHA1-Digest: f28mzZdWRvsFd7B31kX0OEPj+NI=
+
+Name: org/springsource/ide/eclipse/gradle/core/m2e/M2EUtils$NullImplem
+ entation.class
+SHA1-Digest: tt4ZqOJou84+WquFl6l1nQQt6Uk=
+
+Name: org/springsource/ide/eclipse/gradle/core/ClassPath$ClasspathEntr
+ yComparator.class
+SHA1-Digest: 8SkeBndKOQiCRtpTf3CmFklzSXQ=
+
+Name: samples/flat-java-multiproject/product/src/main/resources/README
+ .txt
+SHA1-Digest: Vy7HHew4+PfUVFqVLzH1TxaV4cw=
+
+Name: org/springsource/ide/eclipse/gradle/core/ProjectConfigurationMan
+ ager$DescriptorsTopoSort.class
+SHA1-Digest: vyh4NONI90e9OuMEPsGDgZK6rSc=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/Box.class
+SHA1-Digest: ps+NfZeq800q5Mx9Kp7lc694Qho=
+
+Name: org/springsource/ide/eclipse/gradle/core/actions/RefreshDependen
+ ciesActionCore$1$1.class
+SHA1-Digest: AeeOvFqD8ad1I657UhLL29CBj2Q=
+
+Name: org/springsource/ide/eclipse/gradle/core/util/GradleRunnable$2.c
+ lass
+SHA1-Digest: 0GUh/dpxXvfRdiCqG+1gfILqBBo=
+

@@ -1,0 +1,182 @@
+Manifest-Version: 1.0
+Export-Package: org.gradle,org.gradle.api,org.gradle.api.artifacts,org
+ .gradle.api.artifacts.cache,org.gradle.api.artifacts.component,org.gr
+ adle.api.artifacts.dsl,org.gradle.api.artifacts.query,org.gradle.api.
+ artifacts.repositories,org.gradle.api.artifacts.result,org.gradle.api
+ .component,org.gradle.api.dsl,org.gradle.api.execution,org.gradle.api
+ .file,org.gradle.api.initialization,org.gradle.api.initialization.dsl
+ ,org.gradle.api.internal,org.gradle.api.internal.artifacts,org.gradle
+ .api.internal.artifacts.configurations,org.gradle.api.internal.artifa
+ cts.configurations.dynamicversion,org.gradle.api.internal.artifacts.d
+ ependencies,org.gradle.api.internal.artifacts.dsl,org.gradle.api.inte
+ rnal.artifacts.dsl.dependencies,org.gradle.api.internal.artifacts.pub
+ lish,org.gradle.api.internal.artifacts.query,org.gradle.api.internal.
+ artifacts.repositories,org.gradle.api.internal.cache,org.gradle.api.i
+ nternal.changedetection,org.gradle.api.internal.changedetection.chang
+ es,org.gradle.api.internal.changedetection.rules,org.gradle.api.inter
+ nal.changedetection.state,org.gradle.api.internal.classpath,org.gradl
+ e.api.internal.coerce,org.gradle.api.internal.collections,org.gradle.
+ api.internal.component,org.gradle.api.internal.file,org.gradle.api.in
+ ternal.file.ant,org.gradle.api.internal.file.archive,org.gradle.api.i
+ nternal.file.archive.compression,org.gradle.api.internal.file.collect
+ ions,org.gradle.api.internal.file.copy,org.gradle.api.internal.file.p
+ attern,org.gradle.api.internal.hash,org.gradle.api.internal.html,org.
+ gradle.api.internal.initialization,org.gradle.api.internal.plugins,or
+ g.gradle.api.internal.project,org.gradle.api.internal.project.ant,org
+ .gradle.api.internal.project.taskfactory,org.gradle.api.internal.reso
+ urces,org.gradle.api.internal.specs,org.gradle.api.internal.tasks,org
+ .gradle.api.internal.tasks.execution,org.gradle.api.internal.tasks.op
+ tions,org.gradle.api.internal.xml,org.gradle.api.invocation,org.gradl
+ e.api.logging,org.gradle.api.plugins,org.gradle.api.resources,org.gra
+ dle.api.specs,org.gradle.api.tasks,org.gradle.api.tasks.ant,org.gradl
+ e.api.tasks.bundling,org.gradle.api.tasks.bundling.internal,org.gradl
+ e.api.tasks.incremental,org.gradle.api.tasks.util,org.gradle.api.task
+ s.util.internal,org.gradle.cache,org.gradle.cache.internal,org.gradle
+ .cache.internal.btree,org.gradle.cache.internal.cacheops,org.gradle.c
+ ache.internal.filelock,org.gradle.cache.internal.locklistener,org.gra
+ dle.configuration,org.gradle.configuration.project,org.gradle.executi
+ on,org.gradle.execution.commandline,org.gradle.execution.taskgraph,or
+ g.gradle.execution.taskpath,org.gradle.groovy.scripts,org.gradle.groo
+ vy.scripts.internal,org.gradle.initialization,org.gradle.initializati
+ on.layout,org.gradle.internal,org.gradle.internal.classloader,org.gra
+ dle.internal.classpath,org.gradle.internal.concurrent,org.gradle.inte
+ rnal.environment,org.gradle.internal.exceptions,org.gradle.internal.f
+ eaturelifecycle,org.gradle.internal.graph,org.gradle.internal.hash,or
+ g.gradle.internal.id,org.gradle.internal.io,org.gradle.internal.jvm,o
+ rg.gradle.internal.os,org.gradle.internal.progress,org.gradle.interna
+ l.reflect,org.gradle.internal.resource,org.gradle.internal.resource.l
+ ocal,org.gradle.internal.resource.metadata,org.gradle.internal.resour
+ ce.transfer,org.gradle.internal.service,org.gradle.internal.service.s
+ copes,org.gradle.internal.text,org.gradle.internal.typeconversion,org
+ .gradle.invocation,org.gradle.jarjar.com.google.common.annotations,or
+ g.gradle.jarjar.com.google.common.base,org.gradle.jarjar.com.google.c
+ ommon.collect,org.gradle.jarjar.com.google.common.math,org.gradle.jar
+ jar.com.google.common.primitives,org.gradle.jarjar.org.apache.commons
+ .io,org.gradle.jarjar.org.apache.commons.io.filefilter,org.gradle.jar
+ jar.org.apache.commons.io.output,org.gradle.listener,org.gradle.loggi
+ ng,org.gradle.logging.internal,org.gradle.logging.internal.logback,or
+ g.gradle.logging.internal.progress,org.gradle.messaging.actor,org.gra
+ dle.messaging.actor.internal,org.gradle.messaging.dispatch,org.gradle
+ .messaging.remote,org.gradle.messaging.remote.internal,org.gradle.mes
+ saging.remote.internal.hub,org.gradle.messaging.remote.internal.hub.p
+ rotocol,org.gradle.messaging.remote.internal.hub.queue,org.gradle.mes
+ saging.remote.internal.inet,org.gradle.messaging.remote.internal.prot
+ ocol,org.gradle.messaging.serialize,org.gradle.messaging.serialize.kr
+ yo,org.gradle.model,org.gradle.model.dsl,org.gradle.model.dsl.interna
+ l,org.gradle.model.internal,org.gradle.model.internal.rules,org.gradl
+ e.plugin.internal,org.gradle.plugin.use,org.gradle.plugin.use.interna
+ l,org.gradle.process,org.gradle.process.internal,org.gradle.process.i
+ nternal.child,org.gradle.process.internal.launcher,org.gradle.process
+ .internal.shutdown,org.gradle.process.internal.streams,org.gradle.tes
+ tfixtures,org.gradle.testfixtures.internal,org.gradle.tooling,org.gra
+ dle.tooling.exceptions,org.gradle.tooling.internal.adapter,org.gradle
+ .tooling.internal.build,org.gradle.tooling.internal.consumer,org.grad
+ le.tooling.internal.consumer.async,org.gradle.tooling.internal.consum
+ er.connection,org.gradle.tooling.internal.consumer.converters,org.gra
+ dle.tooling.internal.consumer.loader,org.gradle.tooling.internal.cons
+ umer.parameters,org.gradle.tooling.internal.consumer.versioning,org.g
+ radle.tooling.internal.gradle,org.gradle.tooling.internal.protocol,or
+ g.gradle.tooling.internal.protocol.eclipse,org.gradle.tooling.interna
+ l.protocol.exceptions,org.gradle.tooling.model,org.gradle.tooling.mod
+ el.build,org.gradle.tooling.model.eclipse,org.gradle.tooling.model.gr
+ adle,org.gradle.tooling.model.idea,org.gradle.tooling.model.internal,
+ org.gradle.tooling.model.internal.outcomes,org.gradle.tooling.provide
+ r.model,org.gradle.tooling.provider.model.internal,org.gradle.util,or
+ g.gradle.util.internal,org.gradle.wrapper,org.springsource.ide.eclips
+ e.gradle.toolingapi
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .,lib/gradle-core-2.0.jar,lib/gradle-tooling-api-2.0
+ .jar,lib/gradle-wrapper-2.0.jar,lib/slf4j-simple-1.7.5.jar,lib/common
+ s-collections-3.2.1.jar,lib/gradle-resources-2.0.jar,lib/slf4j-api-1.
+ 7.5.jar,lib/gradle-base-services-2.0.jar,lib/guava-jdk5-17.0.jar,lib/
+ asm-4.0.jar,lib/reflectasm-1.07-shaded.jar,lib/minlog-1.2.jar,lib/obj
+ enesis-1.2.jar,lib/kryo-2.20.jar,lib/gradle-messaging-2.0.jar
+Built-By: bamboo
+Eclipse-BundleShape: dir
+Bundle-Name: Toolingapi
+Created-By: Apache Maven
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime
+Bundle-Vendor: Pivotal Software, Inc.
+Bundle-Version: 3.6.1.201408250705-RELEASE
+Build-Jdk: 1.6.0_29
+Bundle-ManifestVersion: 2
+Bundle-Activator: org.springsource.ide.eclipse.gradle.toolingapi.Gradl
+ eToolingApi
+Bundle-SymbolicName: org.springsource.ide.eclipse.gradle.toolingapi
+Source-Control-Identifier: b1b4b221e0540ad2fbc3e6df19b2c8cf8286cb03
+Archiver-Version: Plexus Archiver
+
+Name: lib/kryo-2.20.jar
+SHA1-Digest: tZar7RR8XFuYXJlglMXB1mIty58=
+
+Name: lib/reflectasm-1.07-shaded.jar
+SHA1-Digest: dvEclKU+6XWg2RVLMlxAiyEBVb0=
+
+Name: lib/commons-collections-3.2.1.jar
+SHA1-Digest: dh6kBbmzfO1XPS3w0eOk4Pntxmg=
+
+Name: lib/gradle-wrapper-2.0-sources.jar
+SHA1-Digest: KTHcQevmgQlfHYFEVsRAqZl8QDM=
+
+Name: lib/asm-4.0.jar
+SHA1-Digest: ZZrdbvx1pHFdc45z8HUFJG7fTWY=
+
+Name: lib/commons-collections-3.2.1-sources.jar
+SHA1-Digest: +gle+HQ3TlsqEfiwbCal1ox8s6Q=
+
+Name: org/springsource/ide/eclipse/gradle/toolingapi/GradleToolingApi.
+ class
+SHA1-Digest: dTyHBDVSkAS7bqRrbSePGLdIUbQ=
+
+Name: lib/slf4j-simple-1.7.5.jar
+SHA1-Digest: SpUMULvGf9vJCBkNyOJdegJR90o=
+
+Name: lib/gradle-core-2.0.jar
+SHA1-Digest: Qw7yFMNWMdA0gqBAJKWKDfF+pHQ=
+
+Name: lib/gradle-tooling-api-2.0-sources.jar
+SHA1-Digest: ocPcxHxzwfgKdCzaG5ov+bxVr9M=
+
+Name: lib/slf4j-api-1.7.5.jar
+SHA1-Digest: ayYtomj4rZ7/lBslUDqRmPCgrJM=
+
+Name: lib/gradle-wrapper-2.0.jar
+SHA1-Digest: aCxCBjSsQI7mbHLR1T9H4vUDgNI=
+
+Name: lib/gradle-core-2.0-sources.jar
+SHA1-Digest: 1FEr6EF1l2Fe3F+1FLpy9VYA4qI=
+
+Name: lib/objenesis-1.2.jar
+SHA1-Digest: v8sFOaBxpMWjBpA4iQOsSMBmfyo=
+
+Name: lib/gradle-base-services-2.0.jar
+SHA1-Digest: jlYQ2EdeSyDgp2+oyg2IqrCARKQ=
+
+Name: lib/gradle-tooling-api-2.0.jar
+SHA1-Digest: 5yzCyGhGJtmrnOZkD6qI6Zx7S3w=
+
+Name: lib/guava-jdk5-17.0.jar
+SHA1-Digest: Rj+DeP66RN97p82SctAYN9rWKzY=
+
+Name: about.html
+SHA1-Digest: uEQZ5K5pAOY2VgvdzawsnM/asKY=
+
+Name: lib/minlog-1.2.jar
+SHA1-Digest: Wb/NFx2C+ZgaXiQrnoQBkfZQ4gk=
+
+Name: lib/gradle-resources-2.0.jar
+SHA1-Digest: 9oLNa3B4M8nXppPkUDtxHyAhibA=
+
+Name: lib/README.txt
+SHA1-Digest: EZZlVJeMvYJdwjV/cEdULR1sg4c=
+
+Name: embedded-libs.properties
+SHA1-Digest: 23OdJEop+BP16BrzD4mgWn/pew0=
+
+Name: lib/gradle-messaging-2.0.jar
+SHA1-Digest: vB2/S5LQYGVshjmj3n5s6xdgfOE=
+
+Name: lib/slf4j-simple-1.7.5-sources.jar
+SHA1-Digest: +M7/+Mc5k0SOfBb6qvvfaLQwyok=
+

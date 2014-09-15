@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?metadataRepository version='1.1.0'?>
+<repository name='Maven Development Tools' type='org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository' version='1.0.0'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1389117429367'/>
+    <property name='p2.compressed' value='false'/>
+  </properties>
+  <units size='5'>
+    <unit id='com.ifedorenko.m2e.mavendev.feature.feature.group' version='0.2.0.201401071755' singleton='false'>
+      <update id='com.ifedorenko.m2e.mavendev.feature.feature.group' range='[0.0.0,0.2.0.201401071755)' severity='0'/>
+      <properties size='4'>
+        <property name='org.eclipse.equinox.p2.name' value='Maven Development Tools'/>
+        <property name='org.eclipse.equinox.p2.description' value='Maven Development Tools is a collection of m2e extensions that enables &#xA;end-to-end debugging of Maven Plugins, Maven Core and their dependencies from&#xA;m2e development workspace, without the need to install artifacts to the local&#xA;Maven repository.'/>
+        <property name='org.eclipse.equinox.p2.provider' value='Igor Fedorenko'/>
+        <property name='org.eclipse.equinox.p2.type.group' value='true'/>
+      </properties>
+      <provides size='1'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.mavendev.feature.feature.group' version='0.2.0.201401071755'/>
+      </provides>
+      <requires size='6'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.sourcelookup.feature.feature.group' range='[1.0.0,2.0.0)'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.eclipse.jdt.feature.group' range='[3.8.0,4.0.0)'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.sonatype.m2e.mavenarchiver.feature.feature.group' range='[0.15.0,1.0.0)'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.mavendev' range='[0.2.0.201401071755,0.2.0.201401071755]'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.mavendev.junit.runtime' range='[0.2.0.201311232240,0.2.0.201311232240]'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.mavendev.feature.feature.jar' range='[0.2.0.201401071755,0.2.0.201401071755]'>
+          <filter>
+            (org.eclipse.update.install.features=true)
+          </filter>
+        </required>
+      </requires>
+      <touchpoint id='null' version='0.0.0'/>
+    </unit>
+    <unit id='com.ifedorenko.m2e.mavendev.junit.runtime' version='0.2.0.201311232240' singleton='false'>
+      <update id='com.ifedorenko.m2e.mavendev.junit.runtime' range='[0.0.0,0.2.0.201311232240)' severity='0'/>
+      <properties size='2'>
+        <property name='org.eclipse.equinox.p2.name' value='Maven Development Tools JUnit Launcher'/>
+        <property name='org.eclipse.equinox.p2.provider' value='Igor Fedorenko'/>
+      </properties>
+      <provides size='3'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.mavendev.junit.runtime' version='0.2.0.201311232240'/>
+        <provided namespace='osgi.bundle' name='com.ifedorenko.m2e.mavendev.junit.runtime' version='0.2.0.201311232240'/>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='bundle' version='1.0.0'/>
+      </provides>
+      <artifacts size='1'>
+        <artifact classifier='osgi.bundle' id='com.ifedorenko.m2e.mavendev.junit.runtime' version='0.2.0.201311232240'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='1'>
+          <instruction key='manifest'>
+            Bundle-SymbolicName: com.ifedorenko.m2e.mavendev.junit.runtime&#xA;Bundle-Version: 0.2.0.201311232240
+          </instruction>
+        </instructions>
+      </touchpointData>
+    </unit>
+    <unit id='com.ifedorenko.m2e.mavendev' version='0.2.0.201401071755'>
+      <update id='com.ifedorenko.m2e.mavendev' range='[0.0.0,0.2.0.201401071755)' severity='0'/>
+      <properties size='2'>
+        <property name='org.eclipse.equinox.p2.name' value='Maven Development Tools'/>
+        <property name='org.eclipse.equinox.p2.provider' value='Igor Fedorenko'/>
+      </properties>
+      <provides size='3'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.mavendev' version='0.2.0.201401071755'/>
+        <provided namespace='osgi.bundle' name='com.ifedorenko.m2e.mavendev' version='0.2.0.201401071755'/>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='bundle' version='1.0.0'/>
+      </provides>
+      <requires size='15'>
+        <required namespace='osgi.bundle' name='org.eclipse.m2e.launching' range='[1.5.0,2.0.0)'/>
+        <required namespace='osgi.bundle' name='org.eclipse.m2e.maven.runtime' range='[1.1.0,2.0.0)'/>
+        <required namespace='osgi.bundle' name='org.eclipse.jdt.core' range='3.8.1'/>
+        <required namespace='osgi.bundle' name='org.eclipse.core.runtime' range='3.8.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.jdt.launching' range='3.6.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.debug.ui' range='3.8.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.jdt.junit' range='3.7.100'/>
+        <required namespace='osgi.bundle' name='org.eclipse.jdt.debug.ui' range='3.6.100'/>
+        <required namespace='osgi.bundle' name='org.eclipse.m2e.jdt' range='[1.1.0,2.0.0)'/>
+        <required namespace='osgi.bundle' name='org.eclipse.m2e.core' range='[1.1.0,2.0.0)'/>
+        <required namespace='osgi.bundle' name='com.ifedorenko.m2e.sourcelookup' range='1.1.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.swt' range='3.8.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.ui.workbench' range='3.8.0'/>
+        <required namespace='osgi.bundle' name='org.eclipse.jface' range='3.8.0'/>
+        <required namespace='java.package' name='org.slf4j' range='1.6.1'/>
+      </requires>
+      <artifacts size='1'>
+        <artifact classifier='osgi.bundle' id='com.ifedorenko.m2e.mavendev' version='0.2.0.201401071755'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='1'>
+          <instruction key='manifest'>
+            Bundle-SymbolicName: com.ifedorenko.m2e.mavendev;singleton:=true&#xA;Bundle-Version: 0.2.0.201401071755
+          </instruction>
+        </instructions>
+      </touchpointData>
+    </unit>
+    <unit id='com.ifedorenko.m2e.mavendev.feature.feature.jar' version='0.2.0.201401071755'>
+      <properties size='3'>
+        <property name='org.eclipse.equinox.p2.name' value='Maven Development Tools'/>
+        <property name='org.eclipse.equinox.p2.description' value='Maven Development Tools is a collection of m2e extensions that enables &#xA;end-to-end debugging of Maven Plugins, Maven Core and their dependencies from&#xA;m2e development workspace, without the need to install artifacts to the local&#xA;Maven repository.'/>
+        <property name='org.eclipse.equinox.p2.provider' value='Igor Fedorenko'/>
+      </properties>
+      <provides size='3'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.mavendev.feature.feature.jar' version='0.2.0.201401071755'/>
+        <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='feature' version='1.0.0'/>
+        <provided namespace='org.eclipse.update.feature' name='com.ifedorenko.m2e.mavendev.feature' version='0.2.0.201401071755'/>
+      </provides>
+      <filter>
+        (org.eclipse.update.install.features=true)
+      </filter>
+      <artifacts size='1'>
+        <artifact classifier='org.eclipse.update.feature' id='com.ifedorenko.m2e.mavendev.feature' version='0.2.0.201401071755'/>
+      </artifacts>
+      <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+      <touchpointData size='1'>
+        <instructions size='1'>
+          <instruction key='zipped'>
+            true
+          </instruction>
+        </instructions>
+      </touchpointData>
+    </unit>
+    <unit id='file:/workspaces/m2e-dev/com.ifedorenko.m2e.tychodev-parent/com.ifedorenko.m2e.mavendev.feature/category.xml.mavendev' version='1.0.0.03-cM9Qc67735A353G5GCC'>
+      <properties size='2'>
+        <property name='org.eclipse.equinox.p2.name' value='Maven Development Tools'/>
+        <property name='org.eclipse.equinox.p2.type.category' value='true'/>
+      </properties>
+      <provides size='1'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='file:/workspaces/m2e-dev/com.ifedorenko.m2e.tychodev-parent/com.ifedorenko.m2e.mavendev.feature/category.xml.mavendev' version='1.0.0.03-cM9Qc67735A353G5GCC'/>
+      </provides>
+      <requires size='1'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='com.ifedorenko.m2e.mavendev.feature.feature.group' range='[0.2.0.201401071755,0.2.0.201401071755]'/>
+      </requires>
+      <touchpoint id='null' version='0.0.0'/>
+    </unit>
+  </units>
+</repository>

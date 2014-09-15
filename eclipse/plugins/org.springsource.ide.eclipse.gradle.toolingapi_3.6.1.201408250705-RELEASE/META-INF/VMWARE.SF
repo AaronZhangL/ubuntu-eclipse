@@ -1,0 +1,78 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: tdRJpnZSZDV1h2w7mo50rG2036Q=
+Created-By: 1.6.0_29 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: 8tjecDPOcnfT6hJfpJ4STGveJ/8=
+
+Name: lib/kryo-2.20.jar
+SHA1-Digest: t2U2M5qO+TGD3x/Tw4uZv8kVyes=
+
+Name: lib/reflectasm-1.07-shaded.jar
+SHA1-Digest: fof/cJ+jd+b33G5D8Xqz0LUqKl4=
+
+Name: lib/commons-collections-3.2.1.jar
+SHA1-Digest: VZAd+fBkBIO2h34VEDKH/lC5YaI=
+
+Name: lib/gradle-wrapper-2.0-sources.jar
+SHA1-Digest: DFTP0cv3s+z+CWK3NPS1eEyWOWc=
+
+Name: lib/asm-4.0.jar
+SHA1-Digest: k+Ciwl3zm15GmOgdd9X84zoUFEo=
+
+Name: lib/commons-collections-3.2.1-sources.jar
+SHA1-Digest: rVOCSR95tNWaNbDplWoeEkqG6+M=
+
+Name: org/springsource/ide/eclipse/gradle/toolingapi/GradleToolingApi.
+ class
+SHA1-Digest: eC5LTvhcdOe/EKEXdnnCB+s7N88=
+
+Name: lib/slf4j-simple-1.7.5.jar
+SHA1-Digest: hu0z84uVpg4fifn/Ddi6aC4DLAI=
+
+Name: lib/gradle-core-2.0.jar
+SHA1-Digest: Mvg0zPhcjohrESfRkE3RYGe1jh4=
+
+Name: lib/gradle-tooling-api-2.0-sources.jar
+SHA1-Digest: zxJip1mHklLmZMeBEh6x+qGwDhw=
+
+Name: lib/slf4j-api-1.7.5.jar
+SHA1-Digest: PyNQEucdiQkvsVzNQOk1W87E8i4=
+
+Name: lib/gradle-wrapper-2.0.jar
+SHA1-Digest: v/R45CxcDgb9qrlvTOWAJc3LHDM=
+
+Name: lib/gradle-core-2.0-sources.jar
+SHA1-Digest: MJbS4O7SQetQ6upyYaAITpWesnA=
+
+Name: lib/objenesis-1.2.jar
+SHA1-Digest: exBv/BI/kUWZASo01bFtwuMlt8Q=
+
+Name: lib/gradle-tooling-api-2.0.jar
+SHA1-Digest: iQwkdadm86VgVjSOxDNzPui8CAw=
+
+Name: lib/gradle-base-services-2.0.jar
+SHA1-Digest: 6YG44OBRin7QK3o+CLOWatX5bPI=
+
+Name: about.html
+SHA1-Digest: sls/uPX0dorZWZyIgOph4kXdXoU=
+
+Name: lib/guava-jdk5-17.0.jar
+SHA1-Digest: OYQGR4D7rktv6jUFWsoJzy7YB88=
+
+Name: lib/minlog-1.2.jar
+SHA1-Digest: Ip4NiX6hEhKNccW+rR3p181/fVU=
+
+Name: lib/gradle-messaging-2.0.jar
+SHA1-Digest: y35np5EXHvBCsUaNQv8U9IO9GlU=
+
+Name: embedded-libs.properties
+SHA1-Digest: o+6TO3915iki5LNrkTmkaaE+4aA=
+
+Name: lib/README.txt
+SHA1-Digest: BWXtaYfJCqu8i3ITrTtvqjvP6JY=
+
+Name: lib/gradle-resources-2.0.jar
+SHA1-Digest: ghA++MzyDENrpbt6z7DqgUnFQM4=
+
+Name: lib/slf4j-simple-1.7.5-sources.jar
+SHA1-Digest: Y3XaG8D9oNLNQlYHfX0CY8DOkBY=
+

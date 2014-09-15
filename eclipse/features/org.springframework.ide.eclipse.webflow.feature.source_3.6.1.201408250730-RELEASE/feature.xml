@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/*******************************************************************************
+ * Copyright (c) 2005, 2009 Spring IDE Developers
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the Eclipse Public License v1.0
+ * which accompanies this distribution, and is available at
+ * http://www.eclipse.org/legal/epl-v10.html
+ * 
+ * Contributors:
+ *     Spring IDE Developers - initial API and implementation
+ *******************************************************************************/
+ -->
+<feature
+      id="org.springframework.ide.eclipse.webflow.feature.source"
+      label="%featureName"
+      version="3.6.1.201408250730-RELEASE"
+      provider-name="%providerName"
+      plugin="org.springframework.ide.eclipse">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseUrl">
+      %license
+   </license>
+
+   <plugin
+         id="org.springframework.ide.eclipse.webflow.core.source"
+         download-size="173"
+         install-size="442"
+         version="3.6.1.201408250730-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springframework.ide.eclipse.webflow.ui.source"
+         download-size="56"
+         install-size="140"
+         version="3.6.1.201408250730-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springframework.ide.eclipse.webflow.ui.editor.source"
+         download-size="92"
+         install-size="184"
+         version="3.6.1.201408250730-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springframework.ide.eclipse.webflow.ui.graph.source"
+         download-size="439"
+         install-size="1091"
+         version="3.6.1.201408250730-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.springframework.web.source"
+         download-size="655"
+         install-size="1821"
+         version="4.0.2.20140223-RELEASE"
+         unpack="false"/>
+         
+   <plugin
+         id="org.springframework.web.servlet.source"
+         download-size="640"
+         install-size="1844"
+         version="4.0.2.20140223-RELEASE"
+         unpack="false"/>
+
+</feature>

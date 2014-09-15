@@ -1,0 +1,13 @@
+<repository name="Yoxos Custom Repository" type="org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository" version="1.0.0">
+  <properties size="2">
+    <property name="p2.compressed" value="true"/>
+    <property name="p2.timestamp" value="1410679995402"/>
+  </properties>
+  <children size="5">
+    <child location="http://market.eclipsesource.com/dist/.sitestore/20/206b1d60b647ff235737b8e3a7f8272e"/>
+    <child location="http://market.eclipsesource.com/dist/.sitestore/28/28e285c3b20b98364cb1e44d7c5aac85"/>
+    <child location="http://market.eclipsesource.com/dist/.sitestore/15/15e411b144bc5c3af55112a20e3e5993"/>
+    <child location="http://market.eclipsesource.com/dist/.sitestore/3c/3cc6ecec31f6a81c00830488ecbfb6c2"/>
+    <child location="http://market.eclipsesource.com/dist/.sitestore/43/4372b7acab3daaaf3bbb96e3c5123dcc"/>
+  </children>
+</repository>
