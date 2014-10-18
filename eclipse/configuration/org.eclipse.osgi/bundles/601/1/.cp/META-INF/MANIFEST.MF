@@ -1,0 +1,428 @@
+Manifest-Version: 1.0
+Export-Package: org.aspectj.internal.lang.annotation;version="1.7.3",o
+ rg.aspectj.internal.lang.reflect;version="1.7.3",org.aspectj.lang;ver
+ sion="1.7.3",org.aspectj.lang.annotation;version="1.7.3",org.aspectj.
+ lang.internal.lang;version="1.7.3",org.aspectj.lang.reflect;version="
+ 1.7.3",org.aspectj.runtime;version="1.7.3",org.aspectj.runtime.intern
+ al;version="1.7.3",org.aspectj.runtime.internal.cflowstack;version="1
+ .7.3",org.aspectj.runtime.reflect;version="1.7.3"
+Bundle-Vendor: Eclipse AspectJ Development Tools
+Ant-Version: Apache Ant 1.8.3
+Bundle-ClassPath: .
+Bundle-Version: 1.7.3.20130613144500-a
+Eclipse-BundleShape: jar
+Bundle-Name: AspectJ Runtime
+Bundle-ManifestVersion: 2
+Created-By: 1.6.0_45-b06 (Sun Microsystems Inc.)
+Bundle-SymbolicName: org.aspectj.runtime
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+
+Name: org/aspectj/lang/reflect/FieldSignature.class
+SHA1-Digest: KRIKJjN2UKUhFbtlHukKWy0j7pw=
+
+Name: org/aspectj/lang/reflect/TypePattern.class
+SHA1-Digest: SKYKvKbXy+pjW2piWzOe7Gmn/io=
+
+Name: org/aspectj/internal/lang/reflect/StringToType$1.class
+SHA1-Digest: KTFJR/G62aIRMuDZxsKdwvBncRk=
+
+Name: org/aspectj/lang/annotation/After.class
+SHA1-Digest: 96y4cio1AAnMsooaI+InVMw73S4=
+
+Name: org/aspectj/lang/reflect/InterTypeDeclaration.class
+SHA1-Digest: zv2HkGs3uRg/8BMchM+iCAEZiSI=
+
+Name: org/aspectj/runtime/reflect/SignatureImpl.class
+SHA1-Digest: 7xXDiZppH4guNkdw5/nBXT2tKEU=
+
+Name: org/aspectj/runtime/internal/CFlowStack.class
+SHA1-Digest: kI3sdmvhod2BdD5pY5Z8w+T+BGw=
+
+Name: org/aspectj/runtime/reflect/UnlockSignatureImpl.class
+SHA1-Digest: CwNC6scG7iw8HfUG5yedsilYmKA=
+
+Name: org/aspectj/runtime/reflect/JoinPointImpl$EnclosingStaticPartImp
+ l.class
+SHA1-Digest: hQkUUWdC88S8wXz+jQgMBrtkZR0=
+
+Name: org/aspectj/lang/annotation/DeclareMixin.class
+SHA1-Digest: zEzhDB4rFAKH2BmRlgahJvCIaXA=
+
+Name: org/aspectj/runtime/reflect/SourceLocationImpl.class
+SHA1-Digest: o4nSgnyDUljGoEbL2d+UE1GnA4E=
+
+Name: org/aspectj/lang/reflect/LockSignature.class
+SHA1-Digest: 2d/sio6vVyLSxSbAD57WYmmnmMM=
+
+Name: org/aspectj/lang/reflect/InterTypeConstructorDeclaration.class
+SHA1-Digest: JreaiUrA002HRykbCRhjgaCKZbw=
+
+Name: org/aspectj/runtime/CFlow.class
+SHA1-Digest: qQg19AQzahL0FWa+RPHsC0ZxVMQ=
+
+Name: org/aspectj/lang/reflect/Advice.class
+SHA1-Digest: KDlwLgMzRbHy3bwxZRVNqZsf2Og=
+
+Name: org/aspectj/runtime/internal/cflowstack/ThreadStackFactoryImpl.c
+ lass
+SHA1-Digest: NVX+/TCXJAVD1AVWHSxIGt5y4Kk=
+
+Name: org/aspectj/lang/reflect/InterTypeMethodDeclaration.class
+SHA1-Digest: /bWu0tH2/QOgZAnSSC6Z1utzuCA=
+
+Name: org/aspectj/runtime/reflect/Factory.class
+SHA1-Digest: IjS3EQbdmLiba6gRC5Yb+oH5jm4=
+
+Name: org/aspectj/internal/lang/annotation/ajcITD.class
+SHA1-Digest: Fv6EOuxHlDmsP1GDOwL/YeQ7OSo=
+
+Name: org/aspectj/runtime/internal/cflowstack/ThreadStackFactoryImpl$1
+ .class
+SHA1-Digest: jnI1InWPInYk/gJ/Wf1fMGN5Wxs=
+
+Name: org/aspectj/internal/lang/reflect/TypePatternImpl.class
+SHA1-Digest: jWA4SIXShfyD92ioTY3nr7rTuCU=
+
+Name: org/aspectj/lang/annotation/Before.class
+SHA1-Digest: UI29TXPdWO48D9eZuw6kuO5cNd0=
+
+Name: org/aspectj/internal/lang/annotation/ajcDeclareParents.class
+SHA1-Digest: 7qAM5PdFSVAvvtysC7XDDfpltlQ=
+
+Name: org/aspectj/lang/reflect/NoSuchAdviceException.class
+SHA1-Digest: zoKKEDnMO9c14uM5rYjhCUHKWk8=
+
+Name: org/aspectj/lang/reflect/PointcutBasedPerClause.class
+SHA1-Digest: x1rrglchkWZi3U/5VvVCDqVK8V0=
+
+Name: org/aspectj/internal/lang/reflect/StringToType.class
+SHA1-Digest: RuwIn8PF1kZMszgowVGLAVgPidk=
+
+Name: org/aspectj/lang/reflect/DeclareErrorOrWarning.class
+SHA1-Digest: EJK3fKKfbZXdq/uKtP3tXHWnivU=
+
+Name: org/aspectj/internal/lang/annotation/ajcDeclareSoft.class
+SHA1-Digest: b9HReKBMPLPcRjjjiSxpiXp6lMU=
+
+Name: org/aspectj/lang/reflect/DeclareSoft.class
+SHA1-Digest: MFXH8LDTbix7u4fW4k8YsxcnHqM=
+
+Name: org/aspectj/runtime/reflect/CatchClauseSignatureImpl.class
+SHA1-Digest: ViAP6c/RNxkd1vD9P8Q43IAlxe8=
+
+Name: org/aspectj/lang/reflect/InterTypeFieldDeclaration.class
+SHA1-Digest: HSYTlwTp7+JRLlaYnBIiQrSLLts=
+
+Name: org/aspectj/lang/reflect/PointcutExpression.class
+SHA1-Digest: gpa1rZbgpcnAcMlgSH2Sz0Q6U1g=
+
+Name: org/aspectj/lang/annotation/AdviceName.class
+SHA1-Digest: FlH7Ex8M7rHaXuHKPIHraruYJmk=
+
+Name: org/aspectj/lang/JoinPoint$EnclosingStaticPart.class
+SHA1-Digest: ZyMuvMkxR0VCVefypnzLxz0d4uo=
+
+Name: org/aspectj/internal/lang/reflect/InterTypeFieldDeclarationImpl.
+ class
+SHA1-Digest: WRRtxkpkdFmzZDEWuFsWPzBTF54=
+
+Name: org/aspectj/runtime/reflect/MethodSignatureImpl.class
+SHA1-Digest: Ebx3aigZDEhyhVXRHPfvH4vEmgI=
+
+Name: org/aspectj/internal/lang/reflect/InterTypeConstructorDeclaratio
+ nImpl.class
+SHA1-Digest: kMudL5YZ6ALdXizdoiG/2wio7nk=
+
+Name: org/aspectj/runtime/reflect/SignatureImpl$CacheImpl.class
+SHA1-Digest: pLorndWa7jHXzt/Pszh618BnAbo=
+
+Name: org/aspectj/runtime/reflect/ConstructorSignatureImpl.class
+SHA1-Digest: cGlWaX2yLwNYuZlpRmLqP9XZKVE=
+
+Name: org/aspectj/lang/annotation/control/CodeGenerationHint.class
+SHA1-Digest: jn9aDiSteulPbn66gCHnWwVAvZo=
+
+Name: org/aspectj/runtime/internal/cflowstack/ThreadStackFactoryImpl$T
+ hreadCounterImpl.class
+SHA1-Digest: SpHoXNaD+Pk0u8yPEG76xa3xsLs=
+
+Name: org/aspectj/internal/lang/reflect/InterTypeDeclarationImpl.class
+SHA1-Digest: 6IEAYdjPrBdrcO4YwbOf6nFoQ64=
+
+Name: org/aspectj/runtime/internal/cflowstack/ThreadCounterImpl11$Coun
+ ter.class
+SHA1-Digest: Qqy2EwYbkrJxrwn1lyG5NCpX5Ac=
+
+Name: org/aspectj/lang/reflect/DeclareParents.class
+SHA1-Digest: D4SSWkRJ1vsIZH9UCwk52RB2vX8=
+
+Name: org/aspectj/runtime/reflect/LockSignatureImpl.class
+SHA1-Digest: 7Q5HK1BwwizMjH7HS5l2MAp480c=
+
+Name: org/aspectj/runtime/internal/AroundClosure.class
+SHA1-Digest: BUBAexw0ePznaTw2m2ighPwYFGg=
+
+Name: about.html
+SHA1-Digest: GBCB10F/TFELOqVL2hqV91JsJ3E=
+
+Name: org/aspectj/runtime/reflect/CodeSignatureImpl.class
+SHA1-Digest: w7pEG4ZKN59bq34rUL8CQtpq5WE=
+
+Name: org/aspectj/lang/reflect/SignaturePattern.class
+SHA1-Digest: Rq+xpDEI1TYogqK/ub4g5lNTOXM=
+
+Name: org/aspectj/runtime/internal/cflowstack/ThreadStackFactoryImpl$T
+ hreadCounterImpl$Counter.class
+SHA1-Digest: 9Safh8A8hHDQlCbRwR9qFSmzJJs=
+
+Name: org/aspectj/lang/reflect/ConstructorSignature.class
+SHA1-Digest: URF5/e6fM0jfAR5zTe48OPcEwps=
+
+Name: org/aspectj/lang/annotation/DeclareParents.class
+SHA1-Digest: woglThcvI7cYeW+CxTy7g0svSVk=
+
+Name: org/aspectj/internal/lang/reflect/DeclareErrorOrWarningImpl.clas
+ s
+SHA1-Digest: 61Kb0M9pYiwlCFI+4MUpwtPIrsk=
+
+Name: org/aspectj/lang/reflect/TypePatternBasedPerClause.class
+SHA1-Digest: SmrdZ4I20T1svpM5bY8TdK6AKpc=
+
+Name: org/aspectj/lang/annotation/DeclareError.class
+SHA1-Digest: 9i3/lUAvMN8P9cFcs4+MPYpDt/Y=
+
+Name: org/aspectj/lang/reflect/Pointcut.class
+SHA1-Digest: pzx7oYR/h2UcymyHKXrxctcxhVU=
+
+Name: org/aspectj/runtime/reflect/SignatureImpl$Cache.class
+SHA1-Digest: leKD7vRtQWLn+C88W3x49CZyOMo=
+
+Name: org/aspectj/lang/annotation/DeclareWarning.class
+SHA1-Digest: r29bjx7oDFY712tUh3zvmgTSvR4=
+
+Name: org/aspectj/internal/lang/reflect/DeclareParentsImpl.class
+SHA1-Digest: aiqI39rBwqso2nfHXgyLRmP+2os=
+
+Name: org/aspectj/internal/lang/reflect/InterTypeMethodDeclarationImpl
+ .class
+SHA1-Digest: r5Qy9OblNSKEJzOrVskjp4DagbA=
+
+Name: org/aspectj/internal/lang/reflect/PerClauseImpl.class
+SHA1-Digest: cTgr2DVRIjps7ftQ2DhRLk8uqVk=
+
+Name: org/aspectj/internal/lang/annotation/ajcPrivileged.class
+SHA1-Digest: 7YQK32+nqSopuiFjYoiTBC4V+jI=
+
+Name: org/aspectj/lang/Aspects.class
+SHA1-Digest: XS6JByvYroHeavI+ZBghCVfs5nc=
+
+Name: org/aspectj/internal/lang/annotation/ajcDeclareEoW.class
+SHA1-Digest: zy33gpv7IqDdp/yYtdiTPC7REUo=
+
+Name: org/aspectj/lang/reflect/CodeSignature.class
+SHA1-Digest: W+QHWmEDH15K6DkHz1BurOmSf3Q=
+
+Name: org/aspectj/internal/lang/reflect/DeclareAnnotationImpl.class
+SHA1-Digest: DGk8M+7zkeFD/5vC+KVLmugm04o=
+
+Name: org/aspectj/runtime/reflect/AdviceSignatureImpl.class
+SHA1-Digest: 8BJVf9rAOTl98nq3RiR7187xVE8=
+
+Name: org/aspectj/runtime/reflect/FieldSignatureImpl.class
+SHA1-Digest: T26RbKq9+fQuVYxs2vanxUJ4IM8=
+
+Name: org/aspectj/lang/reflect/AjType.class
+SHA1-Digest: IBkzYYSHBOyOD7VDPrg0cMTEbfw=
+
+Name: org/aspectj/internal/lang/reflect/AdviceImpl$1.class
+SHA1-Digest: EV+HhO6fEwgrGkQ7LpkQx4TE848=
+
+Name: org/aspectj/internal/lang/reflect/PointcutBasedPerClauseImpl.cla
+ ss
+SHA1-Digest: 7ZE++9DwTsNR8rv5uovBzb9gaH4=
+
+Name: org/aspectj/runtime/internal/cflowstack/ThreadCounter.class
+SHA1-Digest: 8z8QgOXcyb2pohDrKPgNFx14LHA=
+
+Name: org/aspectj/lang/reflect/AjTypeSystem.class
+SHA1-Digest: WbgFghtF8ZA099Ish6DtGOs8LL4=
+
+Name: org/aspectj/lang/Signature.class
+SHA1-Digest: tkNDUZNaI+RPiCTE/StWpA39vQA=
+
+Name: org/aspectj/lang/SoftException.class
+SHA1-Digest: 04VETw03t3JGhS8ncGZuGZDo5v0=
+
+Name: org/aspectj/runtime/internal/Conversions.class
+SHA1-Digest: f8jl5W+YkNgpPPNx4SWSAz708cI=
+
+Name: org/aspectj/lang/annotation/DeclareAnnotation.class
+SHA1-Digest: dotzSsAQfFjSszGZqBVv+fsiaJs=
+
+Name: org/aspectj/lang/reflect/AdviceSignature.class
+SHA1-Digest: eA/QCTjJDgQoCyKUkCGg3HlOU4Q=
+
+Name: org/aspectj/lang/JoinPoint.class
+SHA1-Digest: P2M0iU2iAC7IsOwzFkUFSQKKASE=
+
+Name: org/aspectj/lang/reflect/InitializerSignature.class
+SHA1-Digest: 8mi4rH4fqp2gg6/YzjtWU/Gk7bA=
+
+Name: org/aspectj/lang/reflect/DeclareAnnotation$Kind.class
+SHA1-Digest: IRbbaoCEReoZAnYjwf6Fal/gRuU=
+
+Name: org/aspectj/internal/lang/reflect/DeclarePrecedenceImpl.class
+SHA1-Digest: 2x35/kAad2+xWLCQ1a6TL03SZvk=
+
+Name: org/aspectj/lang/reflect/MemberSignature.class
+SHA1-Digest: ZMPkNyzEH1jj/GvTv41OZS8eVxc=
+
+Name: org/aspectj/runtime/reflect/JoinPointImpl.class
+SHA1-Digest: eth10xTAzVlzPfsD/o/CHTbkwi8=
+
+Name: org/aspectj/runtime/internal/cflowstack/ThreadStackImpl11.class
+SHA1-Digest: yDgNrdcOm7/LqTlyslSFeR9ugjI=
+
+Name: org/aspectj/internal/lang/reflect/AjTypeImpl.class
+SHA1-Digest: Hjoqrp4XIbioH6vsfBbgXnt9KKM=
+
+Name: org/aspectj/lang/annotation/Pointcut.class
+SHA1-Digest: jigmofegkS9/ifazzHnwslV2kao=
+
+Name: org/aspectj/lang/reflect/NoSuchPointcutException.class
+SHA1-Digest: sc7JdQ910eGmbd790JmmrBlvLbs=
+
+Name: org/aspectj/lang/annotation/DeclarePrecedence.class
+SHA1-Digest: EwBQ3FnFFD9GtpK16hcNhnpTwNo=
+
+Name: org/aspectj/lang/annotation/Around.class
+SHA1-Digest: 9kamgZ7odbWuVaGBTpfTYntTASo=
+
+Name: org/aspectj/internal/lang/annotation/ajcDeclarePrecedence.class
+SHA1-Digest: SDuFi4O6PGUR9NzGN0F3jbbNe3A=
+
+Name: org/aspectj/internal/lang/reflect/DeclareAnnotationImpl$1.class
+SHA1-Digest: iQia2Y5aIVOg2HOX672umkk1k+A=
+
+Name: org/aspectj/internal/lang/annotation/ajcDeclareAnnotation.class
+SHA1-Digest: J1MMPNvZcfP2MTkiq9yytn32weg=
+
+Name: org/aspectj/runtime/internal/cflowstack/ThreadStackFactoryImpl11
+ .class
+SHA1-Digest: IQST1Lm3610StW3rv6ZOrp1f6pM=
+
+Name: org/aspectj/lang/annotation/Aspect.class
+SHA1-Digest: ecSWTCtt0B2SwQZGZzbcm52hNrY=
+
+Name: org/aspectj/lang/reflect/DeclarePrecedence.class
+SHA1-Digest: qEclOFHknUskgJxtdu2o4SVuoh8=
+
+Name: org/aspectj/runtime/reflect/StringMaker.class
+SHA1-Digest: XCVYyRJGwyI0nkBUe16VDbrDyL8=
+
+Name: org/aspectj/lang/annotation/AfterReturning.class
+SHA1-Digest: TpY+aXil1ISVn6j01icFl8OB95o=
+
+Name: org/aspectj/runtime/internal/cflowstack/ThreadStack.class
+SHA1-Digest: SK/eRoRt7sNytrsXMEgc0EBPR3w=
+
+Name: org/aspectj/lang/annotation/SuppressAjWarnings.class
+SHA1-Digest: 1pkyvqauP3Bed5BWdsEM385s144=
+
+Name: org/aspectj/internal/lang/reflect/PointcutExpressionImpl.class
+SHA1-Digest: 1Qz1Sj74NM1uSd11NWdryih2I0Q=
+
+Name: org/aspectj/runtime/internal/cflowstack/ThreadCounterImpl11.clas
+ s
+SHA1-Digest: iGkZmFb/qTxnPS3XglCoJAzMH18=
+
+Name: org/aspectj/lang/NoAspectBoundException.class
+SHA1-Digest: l6Aj3QYrR20gjEXyUG2uh3378eQ=
+
+Name: org/aspectj/lang/reflect/PerClause.class
+SHA1-Digest: ELrjdTPvV/q6qm1TvQluUsrCROU=
+
+Name: org/aspectj/runtime/internal/cflowstack/ThreadStackFactoryImpl$T
+ hreadStackImpl.class
+SHA1-Digest: Nv1kq94tPd2tS1b4PMzKde4sOlA=
+
+Name: org/aspectj/lang/reflect/PerClauseKind.class
+SHA1-Digest: GHOhDuAEGZGtnE2lAwLcIXxdFPE=
+
+Name: org/aspectj/lang/internal/lang/PlaceHolder.class
+SHA1-Digest: WdFa6iwwD8JgCUfE0AD0dyf0VBk=
+
+Name: org/aspectj/lang/reflect/CatchClauseSignature.class
+SHA1-Digest: gCVUZ+Jly14vqKD8bn3lEFLB0xY=
+
+Name: org/aspectj/runtime/reflect/JoinPointImpl$StaticPartImpl.class
+SHA1-Digest: lCSNZ5SkoD6F0eGlexmq2BWlCUs=
+
+Name: org/aspectj/lang/ProceedingJoinPoint.class
+SHA1-Digest: mddPA3waUHxcpa1rldSjo9PqLSQ=
+
+Name: org/aspectj/runtime/internal/CFlowCounter.class
+SHA1-Digest: VnsU1Ekx7MEbyDKbgrKQldrjGy0=
+
+Name: org/aspectj/lang/Aspects14.class
+SHA1-Digest: 8UcAFytFTe/t4cUqxBjzwmMOwno=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 09gN05tobgS/MdtqyTNQhOhB73M=
+
+Name: org/aspectj/internal/lang/reflect/SignaturePatternImpl.class
+SHA1-Digest: GRy4375VMboM3D48E+dpUb7kbwo=
+
+Name: org/aspectj/lang/reflect/MethodSignature.class
+SHA1-Digest: HjmB954hKaN/20wrQiISll8NKGc=
+
+Name: org/aspectj/runtime/internal/PerObjectMap.class
+SHA1-Digest: 1uAKpT1pQyN2V2SyybFo2NtpLNM=
+
+Name: org/aspectj/internal/lang/reflect/PointcutImpl.class
+SHA1-Digest: rmGpYGf7oveZss67GUIJ4pNQf/c=
+
+Name: org/aspectj/lang/annotation/AfterThrowing.class
+SHA1-Digest: oIHVQcPNFm1XA6amGxAS6WN0esY=
+
+Name: org/aspectj/internal/lang/reflect/DeclareSoftImpl.class
+SHA1-Digest: Be80X1b1mncNh+jKm15wU0Vs0bM=
+
+Name: org/aspectj/lang/reflect/DeclareAnnotation.class
+SHA1-Digest: xc5bAnbUuvyiHEK5tSgVbUpDwIc=
+
+Name: org/aspectj/internal/lang/reflect/AdviceImpl.class
+SHA1-Digest: 7wCOUvwS+4x1QEP5urZjWPYCCH8=
+
+Name: org/aspectj/lang/JoinPoint$StaticPart.class
+SHA1-Digest: pVYzscgN2wcKTk1O87T8cwZUZEA=
+
+Name: org/aspectj/lang/reflect/UnlockSignature.class
+SHA1-Digest: e/Mgs8Mbtg+/K9mqgt/VyqdVEhE=
+
+Name: org/aspectj/lang/reflect/AdviceKind.class
+SHA1-Digest: q7jcQJ0FqXkxO3wYoIMWovxtfbI=
+
+Name: org/aspectj/runtime/reflect/InitializerSignatureImpl.class
+SHA1-Digest: XnYdQnjyrMLE6ls2uGOBamTXKPU=
+
+Name: org/aspectj/runtime/internal/cflowstack/ThreadStackFactory.class
+SHA1-Digest: a0JhYgDlt48pILU2izAC9rI942U=
+
+Name: org/aspectj/internal/lang/reflect/PointcutBasedPerClauseImpl$1.c
+ lass
+SHA1-Digest: /7vGDE7opAVACNsrQL9hE7EdtR0=
+
+Name: org/aspectj/lang/reflect/SourceLocation.class
+SHA1-Digest: fSlr2cee8E4voENMBhV59VxgdvQ=
+
+Name: org/aspectj/internal/lang/reflect/TypePatternBasedPerClauseImpl.
+ class
+SHA1-Digest: 51biqU+zKJQIXVGXhRSRgp1B+ks=
+
+Name: org/aspectj/runtime/internal/CFlowPlusState.class
+SHA1-Digest: 0JMcspIa7yHNwuk7Y4YJIUhHAzc=
+
+Name: org/aspectj/runtime/reflect/MemberSignatureImpl.class
+SHA1-Digest: 0BCvGQxSr7RfYTOGRxCxzFwB2O0=
+

@@ -1,0 +1,505 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: X2wJnPRKLagjjddMrCK305ap9Sk=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: FjQZC53gR6vidGw6S030BPY/LQg=
+
+Name: org/objectweb/asm/util/AbstractVisitor.class
+SHA1-Digest: T+yLb8/Z8M0XFsKZXiZTGkuKzgk=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$OpcodesRule.class
+SHA1-Digest: q2srv0WqR9+IvCxvx9NX+bvDIvg=
+
+Name: org/objectweb/asm/xml/Processor$SubdocumentHandlerFactory.class
+SHA1-Digest: Q6wH19XRnbAsk8+BwwEmi8QVx50=
+
+Name: org/objectweb/asm/util/CheckMethodAdapter.class
+SHA1-Digest: dS0+Lzev+AjjkuoRTWIljjX67Hw=
+
+Name: org/objectweb/asm/signature/SignatureWriter.class
+SHA1-Digest: NLDIjicYrka3/ZIo0yUS7pe3Eqo=
+
+Name: org/objectweb/asm/tree/AbstractInsnNode.class
+SHA1-Digest: MensbNu5Nj/yBABANC3mzddzC0Q=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$RuleSet.class
+SHA1-Digest: TG9RM1HrjU2boqOEGJgBqjsQiKc=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$OuterClassRule.class
+SHA1-Digest: xaqocyZp8YN0XCyDqD18BhEaEmo=
+
+Name: org/objectweb/asm/tree/analysis/SourceInterpreter.class
+SHA1-Digest: AiSM/lmGJtKayHJtuFZpK+acMTY=
+
+Name: org/objectweb/asm/ByteVector.class
+SHA1-Digest: +Uq505f8+miT253WD0XlqYLnZtE=
+
+Name: org/objectweb/asm/AnnotationVisitor.class
+SHA1-Digest: XhJlu/PLn5FdsyQGRY8x+1hVV+s=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$LabelRule.class
+SHA1-Digest: uZTB09NMmpKOLCXz2gWa0hx/nKU=
+
+Name: org/objectweb/asm/tree/JumpInsnNode.class
+SHA1-Digest: xzwWW6IF1kWlAtNe0G0cP+tUMJU=
+
+Name: org/objectweb/asm/commons/JSRInlinerAdapter$Subroutine.class
+SHA1-Digest: VM71cz+lZtAmny6nAfDjf52k9Zw=
+
+Name: org/objectweb/asm/xml/SAXFieldAdapter.class
+SHA1-Digest: 0DVLDh64o/I3ZDuMWhnCsAOlJSg=
+
+Name: org/objectweb/asm/ClassAdapter.class
+SHA1-Digest: A93EriMsQ6dBT/v9RWdURitWLjE=
+
+Name: org/objectweb/asm/ClassWriter.class
+SHA1-Digest: GoEKgvpyKg74r8ATwSob3KyEMkE=
+
+Name: org/objectweb/asm/tree/analysis/Frame.class
+SHA1-Digest: xi+QJxTcx/IkcRzuUh5bictU1ec=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$LookupSwitchRule.class
+SHA1-Digest: DhsxvETLUb8Ys0j61GCkFxlvwDk=
+
+Name: org/objectweb/asm/MethodVisitor.class
+SHA1-Digest: 30NkpqU9l9KouHzIsHWcVO/ihB8=
+
+Name: org/objectweb/asm/tree/MemberNode.class
+SHA1-Digest: DdDWsuIHgwOqCuW8zme1ubLZMjQ=
+
+Name: org/objectweb/asm/tree/TypeInsnNode.class
+SHA1-Digest: PsSf9zmYeEW9KQHlzBBOUfekykE=
+
+Name: org/objectweb/asm/tree/analysis/SmallSet.class
+SHA1-Digest: FN1M0ONaJUDUxKlsQumDaHj9JdQ=
+
+Name: org/objectweb/asm/tree/analysis/Value.class
+SHA1-Digest: PJ33466bVozfZ0wrWULL06L0q2U=
+
+Name: org/objectweb/asm/tree/LineNumberNode.class
+SHA1-Digest: AqEviN+wki4rzc3qM18Pg4cMcrM=
+
+Name: org/objectweb/asm/commons/LocalVariablesSorter.class
+SHA1-Digest: MTQJF78WAt4nppNM1sXmU+hHfr8=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$FrameTypeRule.class
+SHA1-Digest: 9Mn3WiJUzW0jJYP7guHoZQgRssY=
+
+Name: org/objectweb/asm/AnnotationWriter.class
+SHA1-Digest: WUqECLr8fNeR8ZwiHhvQ/T+BNtU=
+
+Name: org/objectweb/asm/util/TraceAbstractVisitor.class
+SHA1-Digest: wDXYbX2zRWP7kzUFlGF9g4u0gHQ=
+
+Name: org/objectweb/asm/commons/GeneratorAdapter.class
+SHA1-Digest: pFjV+aWfmqVwy5GmttHJg0ompbA=
+
+Name: org/objectweb/asm/xml/Processor$OutputSlicingHandler.class
+SHA1-Digest: ybF8AnapKudlXG54EaRiLwajCrM=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$ExceptionRule.class
+SHA1-Digest: eEk67IEJ69aKLVwRSnknFRATACA=
+
+Name: org/objectweb/asm/tree/FieldInsnNode.class
+SHA1-Digest: 8OirVy7Ryl+BRGI0AyJDFckCK2g=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$AnnotationDefaultRule.cl
+ ass
+SHA1-Digest: YFIgTbcSRc6z37PvGQDy/ZgkgGk=
+
+Name: org/objectweb/asm/util/ASMifierFieldVisitor.class
+SHA1-Digest: uTh+1hTnCoX1FF0oxNz9bZcR9Xg=
+
+Name: org/objectweb/asm/signature/SignatureVisitor.class
+SHA1-Digest: KKWiYbgR/ilaOdqXMI0n0ICVpOY=
+
+Name: org/objectweb/asm/tree/LookupSwitchInsnNode.class
+SHA1-Digest: nELOKWrJFEWkDgBHsk8uS2fcedA=
+
+Name: org/objectweb/asm/xml/SAXCodeAdapter.class
+SHA1-Digest: sqZ+0KqvfLfCUTUATv1D2kwTe+A=
+
+Name: org/objectweb/asm/util/ASMifierAnnotationVisitor.class
+SHA1-Digest: YdzV5eFCnszLSYXU0CC4WLBffAU=
+
+Name: about_files/README.txt
+SHA1-Digest: EoFQYNnK62tuXGRlIrWZe0Tk9Lo=
+
+Name: org/objectweb/asm/commons/RemappingSignatureAdapter.class
+SHA1-Digest: NtTbYrFnjKhvMOAB81PYYQOTQUE=
+
+Name: org/objectweb/asm/Frame.class
+SHA1-Digest: rlAmXxOMaWp34gxucfhFNHWiVwg=
+
+Name: org/objectweb/asm/MethodAdapter.class
+SHA1-Digest: VUwzTaDdCABDjjeOTiL/7EecW74=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$MaxRule.class
+SHA1-Digest: f/Tv9tWrO8idCc3+0n7HLf85nzw=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$Opcode.class
+SHA1-Digest: 8hk5OXOUz3lkzjAYgh3QW/oOWU8=
+
+Name: org/objectweb/asm/tree/InsnNode.class
+SHA1-Digest: gs9RXTA1eBNFNzWWCMOFefCP2xA=
+
+Name: org/objectweb/asm/tree/analysis/SourceValue.class
+SHA1-Digest: 9PgDMIXb8vQOrAhf5hEhkpDOiRQ=
+
+Name: org/objectweb/asm/tree/InnerClassNode.class
+SHA1-Digest: NyzJzHYTyaL4UhPHdpJ6zASWPDs=
+
+Name: org/objectweb/asm/tree/LabelNode.class
+SHA1-Digest: 4w7h6irylNhV368KHNXcHOZ+KEM=
+
+Name: org/objectweb/asm/tree/analysis/Subroutine.class
+SHA1-Digest: 02quMrlkLohcHNsZkhVwsAGPrmI=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$FrameRule.class
+SHA1-Digest: qGaI6biCakpDpIsFqXzR2+fV0/g=
+
+Name: org/objectweb/asm/commons/Method.class
+SHA1-Digest: ETJG14OaKisXnXsxfvCYDfsjJUE=
+
+Name: org/objectweb/asm/commons/InstructionAdapter.class
+SHA1-Digest: w1gZG1lXRGBEsk5OmvyZnJIT6Ik=
+
+Name: org/objectweb/asm/util/TraceFieldVisitor.class
+SHA1-Digest: BxEZkLAYGjSsWksFSt/MOp8gI78=
+
+Name: org/objectweb/asm/util/CheckMethodAdapter$1.class
+SHA1-Digest: ia3MVLyhx/6iQEKTr2i/kqICAoI=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$OpcodeGroup.class
+SHA1-Digest: nYZNmoS1c121/1WJxsjw9PzzPXQ=
+
+Name: org/objectweb/asm/signature/SignatureReader.class
+SHA1-Digest: aIrVhndgjFdU69zdtl1JtblPe/c=
+
+Name: org/objectweb/asm/MethodWriter.class
+SHA1-Digest: SpbQIcQke6F7sOeTTw1YkIjZJF4=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: GE6LpX/B3YmMWn9n4yqCYl+1ji0=
+
+Name: org/objectweb/asm/xml/SAXClassAdapter.class
+SHA1-Digest: gAJvFpAuIHWytRi6hemIImmZ1WE=
+
+Name: org/objectweb/asm/xml/Processor$SAXWriterFactory.class
+SHA1-Digest: 94bMYssilgGS75JwiBkTge786j4=
+
+Name: org/objectweb/asm/Type.class
+SHA1-Digest: knsaKbAVna50eCijNUqJ6dIPTjY=
+
+Name: org/objectweb/asm/commons/Remapper.class
+SHA1-Digest: JZW9WY9PAkmZc4+9kW3l4Riaai0=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$AnnotationValueRule.clas
+ s
+SHA1-Digest: Ef1RiKiUQjgQr4pJglx/CoQU8t8=
+
+Name: org/objectweb/asm/tree/LdcInsnNode.class
+SHA1-Digest: lV1ZvR1ZD64B4WH9N38FwrHv+jE=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$LookupSwitchLabelRule.cl
+ ass
+SHA1-Digest: e9g/S8xolely11Psx2IKaDHTjqA=
+
+Name: org/objectweb/asm/tree/IntInsnNode.class
+SHA1-Digest: JHlgGnje8FxAnbwC2cmiqwq1KY0=
+
+Name: org/objectweb/asm/tree/analysis/BasicValue.class
+SHA1-Digest: MtotSE3vwWNnB27iVd/Po+KWX5w=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$InterfacesRule.class
+SHA1-Digest: 6PioZmMxKj3tY7vyTvWKZ3s4oA4=
+
+Name: org/objectweb/asm/commons/JSRInlinerAdapter.class
+SHA1-Digest: Kx6NEkTTMqCBRJd04bgEj4yg88c=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$SourceRule.class
+SHA1-Digest: 9vk+HHxygHLrqzcxg6GSjbN9GyI=
+
+Name: org/objectweb/asm/commons/CodeSizeEvaluator.class
+SHA1-Digest: bpxLUiiM4OUDnF6/BdYK6QwOS+k=
+
+Name: org/objectweb/asm/commons/SerialVersionUIDAdder.class
+SHA1-Digest: m0CuKoTpdtDb6hV2arcE9D/2BNo=
+
+Name: org/objectweb/asm/ClassReader.class
+SHA1-Digest: EZbeY7mvtMAENDnYOfqY7noQ+Io=
+
+Name: about.html
+SHA1-Digest: 4UfVPizqsRdUTjKbGENS7d9YETg=
+
+Name: org/objectweb/asm/util/ASMifierClassVisitor.class
+SHA1-Digest: ORDZz1H4+6x3wVo6J1E90i9r8vg=
+
+Name: org/objectweb/asm/util/CheckFieldAdapter.class
+SHA1-Digest: 94DuveP7k4IJKiSFXWVYbMXyMqU=
+
+Name: org/objectweb/asm/tree/AnnotationNode.class
+SHA1-Digest: mRemcp+451ySAK0GwNJRgeRfOoM=
+
+Name: org/objectweb/asm/util/CheckSignatureAdapter.class
+SHA1-Digest: o0SVrf500ExU9vuaIBPMXbo4n6U=
+
+Name: org/objectweb/asm/util/CheckAnnotationAdapter.class
+SHA1-Digest: Z28NGuqntLSaZQDWRk03zNvcCxw=
+
+Name: org/objectweb/asm/Item.class
+SHA1-Digest: dMtYlJ4Rcy2uyuwBMI6SMVThT1w=
+
+Name: org/objectweb/asm/util/TraceAnnotationVisitor.class
+SHA1-Digest: Tn13xR5YiPEgv1+nnq2JpbN1GcU=
+
+Name: org/objectweb/asm/tree/analysis/AnalyzerException.class
+SHA1-Digest: OCe/j6yo8gBgpluhEeFoCq/1AHw=
+
+Name: org/objectweb/asm/tree/IincInsnNode.class
+SHA1-Digest: FOuEoZB8sYo/UrLrMHFQRtP+zII=
+
+Name: org/objectweb/asm/tree/FrameNode.class
+SHA1-Digest: iuSa6DqQrr2BOLiHw36QOMqpSWU=
+
+Name: org/objectweb/asm/xml/ASMContentHandler.class
+SHA1-Digest: iXDc3Sf8aj02J/A4bWxqjdO0jYc=
+
+Name: org/objectweb/asm/Label.class
+SHA1-Digest: HiZ5pxFHruMD2mK6L7rN/e1w5tg=
+
+Name: org/objectweb/asm/tree/MethodInsnNode.class
+SHA1-Digest: 2XnqDUmiDpaTraKv/1Vf/Vj84QY=
+
+Name: org/objectweb/asm/tree/MultiANewArrayInsnNode.class
+SHA1-Digest: WhojLbcsYlMz89Yz6fVNVf37RzE=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$AnnotationValueArrayRule
+ .class
+SHA1-Digest: vOf9TJ1Oeq6rbldTWT5exknZg0k=
+
+Name: org/objectweb/asm/util/TraceMethodVisitor.class
+SHA1-Digest: Kshy4Yg11dgpff3O8bZd6lJMT3w=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$LocalVarRule.class
+SHA1-Digest: 73Xn9StWKQQ4z+yfVHzKY7ykgJ8=
+
+Name: org/objectweb/asm/xml/Processor$InputSlicingHandler.class
+SHA1-Digest: 88xD9sNvfF1AHuqz8+eTMbDLZQA=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$TryCatchRule.class
+SHA1-Digest: Ki4PQCadJqlvuLbZvvSyOmB7eyw=
+
+Name: org/objectweb/asm/commons/TryCatchBlockSorter$1.class
+SHA1-Digest: 3M4IJiXLgEfDCy/jASOSBRKdvqc=
+
+Name: org/objectweb/asm/commons/RemappingAnnotationAdapter.class
+SHA1-Digest: fPAEiv27yeGRzt1NyyVJAF2xQ/o=
+
+Name: org/objectweb/asm/util/TraceClassVisitor.class
+SHA1-Digest: d1v7Ra/b4RlRrEHVPu+evtxWkf8=
+
+Name: org/objectweb/asm/xml/Processor$ZipEntryElement.class
+SHA1-Digest: TMWgbIrf/YBXVqI9vrMC5PjV03A=
+
+Name: org/objectweb/asm/tree/analysis/BasicVerifier.class
+SHA1-Digest: ItrtaVJ+PNSOVy5V/cn8xTlKzrY=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$ExceptionsRule.class
+SHA1-Digest: xrLtDO8xKQWUFVH33boDeFq8xSo=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$ClassRule.class
+SHA1-Digest: VSCVl1dkLTrU7VxhsDhp0hIzKfQ=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$InterfaceRule.class
+SHA1-Digest: JS+Ha2Akmdlv9eXb8EHr4+0kcg0=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$AnnotationParameterRule.
+ class
+SHA1-Digest: Vpvukk51pob7S9o3aGUTbJHMMvQ=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$FieldRule.class
+SHA1-Digest: UBZh2x8r4GBp12TuorBFqRJ6pkk=
+
+Name: org/objectweb/asm/tree/VarInsnNode.class
+SHA1-Digest: dtgYUuDOBouQpJB1By3ZuMUrDy0=
+
+Name: org/objectweb/asm/tree/LocalVariableNode.class
+SHA1-Digest: BOze4ylJUhP3DP+I3TcyR30qw6Q=
+
+Name: org/objectweb/asm/Handler.class
+SHA1-Digest: amU3kACK+wnQwxqW2Xkn3HzNRhU=
+
+Name: org/objectweb/asm/commons/RemappingMethodAdapter.class
+SHA1-Digest: b6z0EgtmjF84Nvo8f5DWKdToGyM=
+
+Name: org/objectweb/asm/FieldWriter.class
+SHA1-Digest: Jl1/DzIACQzOi8BLfUqmzDtVo80=
+
+Name: org/objectweb/asm/Edge.class
+SHA1-Digest: TgxvJhX4q2+y2sV52V8VnfzN30E=
+
+Name: org/objectweb/asm/xml/Processor$ContentHandlerFactory.class
+SHA1-Digest: BnSdhhoDbYRjjyAjvDFbdUk8zMo=
+
+Name: org/objectweb/asm/xml/SAXAdapter.class
+SHA1-Digest: h8Wa+lZiaPbGs89Kz31S3YtgeRk=
+
+Name: org/objectweb/asm/commons/StaticInitMerger.class
+SHA1-Digest: O/NfDnjJMgD62eG/5HxSosaa3lA=
+
+Name: org/objectweb/asm/util/ASMifierAbstractVisitor.class
+SHA1-Digest: /H57lSX03k1p6aN8o9X+Td1F5cM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/objectweb/asm/tree/MethodNode.class
+SHA1-Digest: QIhENB5xUnUtzo9toExIR9j7O0w=
+
+Name: org/objectweb/asm/util/ASMifiable.class
+SHA1-Digest: qbBJgtoQZg0ve5N7miei8LXlc0Y=
+
+Name: org/objectweb/asm/tree/analysis/Interpreter.class
+SHA1-Digest: /9dq3/lkER5e4c3lpwVYKaMjOFU=
+
+Name: org/objectweb/asm/xml/Processor$ProtectedInputStream.class
+SHA1-Digest: PBJWsa88skoAWMVBqsSVqGhVVhI=
+
+Name: org/objectweb/asm/tree/analysis/Analyzer.class
+SHA1-Digest: EDYXGVlAxODRCf7vGujqS/rYZoY=
+
+Name: org/objectweb/asm/xml/Processor.class
+SHA1-Digest: woPpoTrq2+ZPgbr8qPb5zr0Mp7c=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$LineNumberRule.class
+SHA1-Digest: KzXk3NITtkStxUNm7qIRrafAjW8=
+
+Name: org/objectweb/asm/Attribute.class
+SHA1-Digest: a/KLS0yC4I+pktYMuFS37SH4vy0=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$AnnotationValueAnnotatio
+ nRule.class
+SHA1-Digest: lFNWL5NTXIP7FgRKvYihhMao2os=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$Rule.class
+SHA1-Digest: 8+2FLURUjvZ3PewAhmcC3w1DOtE=
+
+Name: org/objectweb/asm/commons/SimpleRemapper.class
+SHA1-Digest: Xqi/4viwzuAj0Xmt9sCxboFdcZ8=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$MethodRule.class
+SHA1-Digest: ZzwlacdNG7oImokFoHpiD2DYmxk=
+
+Name: org/objectweb/asm/tree/MethodNode$1.class
+SHA1-Digest: Xj+qsp9NZB4isbQhTE1CZK8GWsQ=
+
+Name: org/objectweb/asm/util/CheckClassAdapter.class
+SHA1-Digest: 8bnsj1FEpgXTw8W5D9ywcYrhB+4=
+
+Name: org/objectweb/asm/FieldVisitor.class
+SHA1-Digest: tpkY7+fvZUBVJ5asUS+7BgjFEvo=
+
+Name: org/objectweb/asm/commons/RemappingFieldAdapter.class
+SHA1-Digest: sIngEUsdz19fYTi+rMuGm2zK6nM=
+
+Name: org/objectweb/asm/commons/TableSwitchGenerator.class
+SHA1-Digest: 3K9JONq/+SZtX0f9Ypet8Gs79rA=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$AnnotationValueEnumRule.
+ class
+SHA1-Digest: h6xHdQVhj5JDqftbDg4GD6tUdKM=
+
+Name: org/objectweb/asm/xml/Processor$TransformerHandlerFactory.class
+SHA1-Digest: 4jKF6enfO6HMXWtzZIZkZLeXQC8=
+
+Name: org/objectweb/asm/tree/TryCatchBlockNode.class
+SHA1-Digest: 8Xh/6EG5OXX7sfeqm2QDEg8tSIM=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$TableSwitchLabelRule.cla
+ ss
+SHA1-Digest: n5JoLgmhQPfHVZHRaOL0nmjdJSI=
+
+Name: org/objectweb/asm/commons/TryCatchBlockSorter.class
+SHA1-Digest: fmitBECCoyXs3qQWza0XwO9FZwQ=
+
+Name: org/objectweb/asm/tree/InsnList$InsnListIterator.class
+SHA1-Digest: WNVedet49hiW67vXCmacygpLIOk=
+
+Name: org/objectweb/asm/util/ASMifierMethodVisitor.class
+SHA1-Digest: XdpgTXhtN8Sd5dPGNyaw1szl3qs=
+
+Name: org/objectweb/asm/commons/EmptyVisitor.class
+SHA1-Digest: pBBCV1+kMB6+SwIz/MGLDAaz6YE=
+
+Name: org/objectweb/asm/xml/Processor$ASMContentHandlerFactory.class
+SHA1-Digest: ppN5c4xTnNc9jEux8ZFZBpj7KSU=
+
+Name: org/objectweb/asm/tree/ClassNode.class
+SHA1-Digest: KE8wJx4iDrW14OMmcCdxIkPQ6XA=
+
+Name: org/objectweb/asm/tree/FieldNode.class
+SHA1-Digest: cw8M9Y665zCzDYJC/z/28KE0Ngg=
+
+Name: plugin.properties
+SHA1-Digest: liGoYiYXCk+1+XFiN+DnR+EqEMg=
+
+Name: org/objectweb/asm/util/TraceSignatureVisitor.class
+SHA1-Digest: FH+ix1n5KBYmQhHqjX9AQ0Eo7Hw=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$InnerClassRule.class
+SHA1-Digest: DoTFLlQ2dO8L5WMULcYjRlyqr9Q=
+
+Name: org/objectweb/asm/tree/TableSwitchInsnNode.class
+SHA1-Digest: 9cv900hqGnl8pVltrNvwum0g8cU=
+
+Name: org/objectweb/asm/xml/Processor$SingleDocElement.class
+SHA1-Digest: Ml2UsY/QFPCpHh7YUBtwQHK2iAY=
+
+Name: org/objectweb/asm/tree/InsnList.class
+SHA1-Digest: 419P1wOR+3dKAKKhn68/o8v+22U=
+
+Name: org/objectweb/asm/commons/AdviceAdapter.class
+SHA1-Digest: WA51QGCXKDXMovYJjuUQabyzRDg=
+
+Name: org/objectweb/asm/xml/Processor$SAXWriter.class
+SHA1-Digest: C2341JrmwMkwfGZqDZsAjLjFJEQ=
+
+Name: org/objectweb/asm/tree/analysis/SimpleVerifier.class
+SHA1-Digest: V8JEJ3cH2/DAGReLGy24QMjgCpE=
+
+Name: org/objectweb/asm/tree/analysis/BasicInterpreter.class
+SHA1-Digest: zNB+GelR3IrRcAfbRjJUcPYEXys=
+
+Name: org/objectweb/asm/xml/SAXAnnotationAdapter.class
+SHA1-Digest: DcRvpG6RybsPVmYH5Xh34YJPpYs=
+
+Name: org/objectweb/asm/commons/JSRInlinerAdapter$Instantiation.class
+SHA1-Digest: ekJ7KpLI6ji+XI5akpQLdo2tSUo=
+
+Name: org/objectweb/asm/commons/AnalyzerAdapter.class
+SHA1-Digest: MMDEy2xzurcZwqNPA6i3aWrf4/w=
+
+Name: org/objectweb/asm/util/Traceable.class
+SHA1-Digest: s5MsUWyzw2pydncyjr3b5WRqtFQ=
+
+Name: org/objectweb/asm/Opcodes.class
+SHA1-Digest: /sgfXLCMx+u9HMxHScDisw84F8g=
+
+Name: org/objectweb/asm/xml/Processor$EntryElement.class
+SHA1-Digest: I3qZN04Jb0t+ULFn3IZkrJNr3vk=
+
+Name: org/objectweb/asm/ClassVisitor.class
+SHA1-Digest: abp9rCBA1SNDTP3reyIq4DCL4qM=
+
+Name: org/objectweb/asm/commons/RemappingClassAdapter.class
+SHA1-Digest: 0cfxW2G+zPFFumZhiSl0EKU8KWY=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$AnnotationRule.class
+SHA1-Digest: qJQnNQRKVIx9Y3IFz7xP8osEo3A=
+
+Name: org/objectweb/asm/commons/SerialVersionUIDAdder$Item.class
+SHA1-Digest: X+CrgMN4/Y0hSEXLTcQo+h/dK1g=
+
+Name: org/objectweb/asm/xml/ASMContentHandler$TableSwitchRule.class
+SHA1-Digest: Sle4r8jMNL3f3t/fh8tA2YAlM38=
+
